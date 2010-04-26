@@ -1,0 +1,15 @@
+========== Geographiq ==========
+
+ Un indice global géographique
+
+ RESTful web service for localizing software in multiple languages.
+
+ Supports:
+   - Country lists
+   - Language lists
+
+ Provides information in JSON and TXT formats.
+
+ Hosted on Google App Engine.
+
+ see: http://geographiq.appspot.com/
