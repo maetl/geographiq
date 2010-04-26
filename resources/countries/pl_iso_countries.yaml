@@ -1,0 +1,1003 @@
+ad:
+ iso: AD
+ iso3: AND
+ name: Andora
+ae:
+ iso: AE
+ iso3: ARE
+ name: 'Zjednoczone Emiraty Arabskie'
+af:
+ iso: AF
+ iso3: AFG
+ name: Afganistan
+ag:
+ iso: AG
+ iso3: ATG
+ name: 'Antigua i Barbuda'
+ai:
+ iso: AI
+ iso3: AIA
+ name: Anguilla
+al:
+ iso: AL
+ iso3: ALB
+ name: Albania
+am:
+ iso: AM
+ iso3: ARM
+ name: Armenia
+an:
+ iso: AN
+ iso3: ANT
+ name: 'Antyle Holenderskie'
+ao:
+ iso: AO
+ iso3: AGO
+ name: Angola
+aq:
+ iso: AQ
+ iso3: ATA
+ name: Antarktyda
+ar:
+ iso: AR
+ iso3: ARG
+ name: Argentyna
+as:
+ iso: AS
+ iso3: ASM
+ name: 'Samoa Amerykanskie'
+at:
+ iso: AT
+ iso3: AUT
+ name: Austria
+au:
+ iso: AU
+ iso3: AUS
+ name: Australia
+aw:
+ iso: AW
+ iso3: ABW
+ name: Aruba
+ax:
+ iso: AX
+ iso3: ALA
+ name: 'Wyspy Alandzkie'
+az:
+ iso: AZ
+ iso3: AZE
+ name: Azerbejdzan
+ba:
+ iso: BA
+ iso3: BIH
+ name: 'Bosnia i Hercegowina'
+bb:
+ iso: BB
+ iso3: BRB
+ name: Barbados
+bd:
+ iso: BD
+ iso3: BGD
+ name: Bangladesz
+be:
+ iso: BE
+ iso3: BEL
+ name: Belgia
+bf:
+ iso: BF
+ iso3: BFA
+ name: 'Burkina Faso'
+bg:
+ iso: BG
+ iso3: BGR
+ name: Bulgaria
+bh:
+ iso: BH
+ iso3: BHR
+ name: Bahrajn
+bi:
+ iso: BI
+ iso3: BDI
+ name: Burundi
+bj:
+ iso: BJ
+ iso3: BEN
+ name: Benin
+bl:
+ iso: BL
+ iso3: BLM
+ name: Saint-Barthélemy
+bm:
+ iso: BM
+ iso3: BMU
+ name: Bermudy
+bn:
+ iso: BN
+ iso3: BRN
+ name: Brunei
+bo:
+ iso: BO
+ iso3: BOL
+ name: Boliwia
+br:
+ iso: BR
+ iso3: BRA
+ name: Brazylia
+bs:
+ iso: BS
+ iso3: BHS
+ name: Bahamy
+bt:
+ iso: BT
+ iso3: BTN
+ name: Bhutan
+bv:
+ iso: BV
+ iso3: BVT
+ name: 'Wyspa Bouveta'
+bw:
+ iso: BW
+ iso3: BWA
+ name: Botswana
+by:
+ iso: BY
+ iso3: BLR
+ name: Bialorus
+bz:
+ iso: BZ
+ iso3: BLZ
+ name: Belize
+ca:
+ iso: CA
+ iso3: CAN
+ name: Kanada
+cc:
+ iso: CC
+ iso3: CCK
+ name: 'Wyspy Kokosowe'
+cd:
+ iso: CD
+ iso3: COD
+ name: 'Demokratyczna Republika Konga'
+cf:
+ iso: CF
+ iso3: CAF
+ name: 'Republika Srodkowoafrykanska'
+cg:
+ iso: CG
+ iso3: COG
+ name: Kongo
+ch:
+ iso: CH
+ iso3: CHE
+ name: Szwajcaria
+ci:
+ iso: CI
+ iso3: CIV
+ name: 'Wybrzeze Kosci Sloniowej'
+ck:
+ iso: CK
+ iso3: COK
+ name: 'Wyspy Cooka'
+cl:
+ iso: CL
+ iso3: CHL
+ name: Chile
+cm:
+ iso: CM
+ iso3: CMR
+ name: Kamerun
+cn:
+ iso: CN
+ iso3: CHN
+ name: Chiny
+ alternative_name: 'Chinska Republika Ludowa'
+co:
+ iso: CO
+ iso3: COL
+ name: Kolumbia
+cr:
+ iso: CR
+ iso3: CRI
+ name: Kostaryka
+cu:
+ iso: CU
+ iso3: CUB
+ name: Kuba
+cv:
+ iso: CV
+ iso3: CPV
+ name: 'Republika Zielonego Przyladka'
+cx:
+ iso: CX
+ iso3: CXR
+ name: 'Wyspa Bozego Narodzenia'
+cy:
+ iso: CY
+ iso3: CYP
+ name: Cypr
+ alternative_name: 'Cypr (panstwo)'
+cz:
+ iso: CZ
+ iso3: CZE
+ name: 'Republika Czeska'
+ alternative_name: Czechy
+de:
+ iso: DE
+ iso3: DEU
+ name: Niemcy
+dj:
+ iso: DJ
+ iso3: DJI
+ name: Dzibuti
+dk:
+ iso: DK
+ iso3: DNK
+ name: Dania
+dm:
+ iso: DM
+ iso3: DMA
+ name: Dominika
+ alternative_name: 'Dominika (panstwo)'
+do:
+ iso: DO
+ iso3: DOM
+ name: 'Republika Dominikanska'
+ alternative_name: Dominikana
+dz:
+ iso: DZ
+ iso3: DZA
+ name: Algieria
+ec:
+ iso: EC
+ iso3: ECU
+ name: Ekwador
+ee:
+ iso: EE
+ iso3: EST
+ name: Estonia
+eg:
+ iso: EG
+ iso3: EGY
+ name: Egipt
+eh:
+ iso: EH
+ iso3: ESH
+ name: 'Sahara Zachodnia'
+er:
+ iso: ER
+ iso3: ERI
+ name: Erytrea
+es:
+ iso: ES
+ iso3: ESP
+ name: Hiszpania
+et:
+ iso: ET
+ iso3: ETH
+ name: Etiopia
+fi:
+ iso: FI
+ iso3: FIN
+ name: Finlandia
+fj:
+ iso: FJ
+ iso3: FJI
+ name: Fidzi
+fk:
+ iso: FK
+ iso3: FLK
+ name: 'Falklandy (Malwiny)'
+ alternative_name: 'Falklandy (terytorium)'
+fm:
+ iso: FM
+ iso3: FSM
+ name: Mikronezja
+ alternative_name: 'Mikronezja (panstwo)'
+fo:
+ iso: FO
+ iso3: FRO
+ name: 'Wyspy Owcze'
+fr:
+ iso: FR
+ iso3: FRA
+ name: Francja
+ga:
+ iso: GA
+ iso3: GAB
+ name: Gabon
+gb:
+ iso: GB
+ iso3: GBR
+ name: 'Wielka Brytania'
+gd:
+ iso: GD
+ iso3: GRD
+ name: Grenada
+ge:
+ iso: GE
+ iso3: GEO
+ name: Gruzja
+gf:
+ iso: GF
+ iso3: GUF
+ name: 'Gujana Francuska'
+gg:
+ iso: GG
+ iso3: GGY
+ name: Guernsey
+gh:
+ iso: GH
+ iso3: GHA
+ name: Ghana
+gi:
+ iso: GI
+ iso3: GIB
+ name: Gibraltar
+gl:
+ iso: GL
+ iso3: GRL
+ name: Grenlandia
+gm:
+ iso: GM
+ iso3: GMB
+ name: Gambia
+gn:
+ iso: GN
+ iso3: GIN
+ name: Gwinea
+gp:
+ iso: GP
+ iso3: GLP
+ name: Gwadelupa
+gq:
+ iso: GQ
+ iso3: GNQ
+ name: 'Gwinea Równikowa'
+gr:
+ iso: GR
+ iso3: GRC
+ name: Grecja
+gs:
+ iso: GS
+ iso3: SGS
+ name: 'Georgia Poludniowa]] i [[Sandwich Poludniowy'
+gt:
+ iso: GT
+ iso3: GTM
+ name: Gwatemala
+gu:
+ iso: GU
+ iso3: GUM
+ name: Guam
+gw:
+ iso: GW
+ iso3: GNB
+ name: 'Gwinea Bissau'
+gy:
+ iso: GY
+ iso3: GUY
+ name: Gujana
+hk:
+ iso: HK
+ iso3: HKG
+ name: Hongkong
+hm:
+ iso: HM
+ iso3: HMD
+ name: 'Wyspy Heard i McDonalda'
+hn:
+ iso: HN
+ iso3: HND
+ name: Honduras
+hr:
+ iso: HR
+ iso3: HRV
+ name: Chorwacja
+ht:
+ iso: HT
+ iso3: HTI
+ name: Haiti
+ alternative_name: 'Haiti (panstwo)'
+hu:
+ iso: HU
+ iso3: HUN
+ name: Wegry
+id:
+ iso: ID
+ iso3: IDN
+ name: Indonezja
+ie:
+ iso: IE
+ iso3: IRL
+ name: Irlandia
+il:
+ iso: IL
+ iso3: ISR
+ name: Izrael
+im:
+ iso: IM
+ iso3: IMN
+ name: 'Wyspa Man'
+in:
+ iso: IN
+ iso3: IND
+ name: Indie
+io:
+ iso: IO
+ iso3: IOT
+ name: 'Brytyjskie Terytorium Oceanu Indyjskiego'
+iq:
+ iso: IQ
+ iso3: IRQ
+ name: Irak
+ir:
+ iso: IR
+ iso3: IRN
+ name: Iran
+is:
+ iso: IS
+ iso3: ISL
+ name: Islandia
+it:
+ iso: IT
+ iso3: ITA
+ name: Wlochy
+je:
+ iso: JE
+ iso3: JEY
+ name: Jersey
+jm:
+ iso: JM
+ iso3: JAM
+ name: Jamajka
+jo:
+ iso: JO
+ iso3: JOR
+ name: Jordania
+jp:
+ iso: JP
+ iso3: JPN
+ name: Japonia
+ke:
+ iso: KE
+ iso3: KEN
+ name: Kenia
+kg:
+ iso: KG
+ iso3: KGZ
+ name: Kirgistan
+kh:
+ iso: KH
+ iso3: KHM
+ name: Kambodza
+ki:
+ iso: KI
+ iso3: KIR
+ name: Kiribati
+km:
+ iso: KM
+ iso3: COM
+ name: Komory
+kn:
+ iso: KN
+ iso3: KNA
+ name: 'Saint Kitts i Nevis'
+kp:
+ iso: KP
+ iso3: PRK
+ name: 'Korea Pólnocna'
+kr:
+ iso: KR
+ iso3: KOR
+ name: 'Korea Poludniowa'
+kw:
+ iso: KW
+ iso3: KWT
+ name: Kuwejt
+ky:
+ iso: KY
+ iso3: CYM
+ name: Kajmany
+ alternative_name: 'Kajmany (wyspy)'
+kz:
+ iso: KZ
+ iso3: KAZ
+ name: Kazachstan
+la:
+ iso: LA
+ iso3: LAO
+ name: Laos
+lb:
+ iso: LB
+ iso3: LBN
+ name: Liban
+lc:
+ iso: LC
+ iso3: LCA
+ name: 'Saint Lucia'
+li:
+ iso: LI
+ iso3: LIE
+ name: Liechtenstein
+lk:
+ iso: LK
+ iso3: LKA
+ name: 'Sri Lanka'
+lr:
+ iso: LR
+ iso3: LBR
+ name: Liberia
+ls:
+ iso: LS
+ iso3: LSO
+ name: Lesotho
+lt:
+ iso: LT
+ iso3: LTU
+ name: Litwa
+lu:
+ iso: LU
+ iso3: LUX
+ name: Luksemburg
+lv:
+ iso: LV
+ iso3: LVA
+ name: Lotwa
+ly:
+ iso: LY
+ iso3: LBY
+ name: Libia
+ma:
+ iso: MA
+ iso3: MAR
+ name: Maroko
+mc:
+ iso: MC
+ iso3: MCO
+ name: Monako
+md:
+ iso: MD
+ iso3: MDA
+ name: Moldawia
+me:
+ iso: ME
+ iso3: MNE
+ name: Czarnogóra
+mf:
+ iso: MF
+ iso3: MAF
+ name: Saint-Martin
+mg:
+ iso: MG
+ iso3: MDG
+ name: Madagaskar
+mh:
+ iso: MH
+ iso3: MHL
+ name: 'Wyspy Marshalla'
+mk:
+ iso: MK
+ iso3: MKD
+ name: Macedonia
+ml:
+ iso: ML
+ iso3: MLI
+ name: Mali
+mm:
+ iso: MM
+ iso3: MMR
+ name: 'Birma (Myanmar)'
+ alternative_name: Birma
+mn:
+ iso: MN
+ iso3: MNG
+ name: Mongolia
+mo:
+ iso: MO
+ iso3: MAC
+ name: Makau
+mp:
+ iso: MP
+ iso3: MNP
+ name: 'Mariany Pólnocne'
+mq:
+ iso: MQ
+ iso3: MTQ
+ name: Martynika
+mr:
+ iso: MR
+ iso3: MRT
+ name: Mauretania
+ms:
+ iso: MS
+ iso3: MSR
+ name: Montserrat
+ alternative_name: 'Montserrat (wyspa)'
+mt:
+ iso: MT
+ iso3: MLT
+ name: Malta
+mu:
+ iso: MU
+ iso3: MUS
+ name: Mauritius
+mv:
+ iso: MV
+ iso3: MDV
+ name: Malediwy
+mw:
+ iso: MW
+ iso3: MWI
+ name: Malawi
+mx:
+ iso: MX
+ iso3: MEX
+ name: Meksyk
+my:
+ iso: MY
+ iso3: MYS
+ name: Malezja
+mz:
+ iso: MZ
+ iso3: MOZ
+ name: Mozambik
+na:
+ iso: NA
+ iso3: NAM
+ name: Namibia
+nc:
+ iso: NC
+ iso3: NCL
+ name: 'Nowa Kaledonia'
+ne:
+ iso: NE
+ iso3: NER
+ name: Niger
+nf:
+ iso: NF
+ iso3: NFK
+ name: Norfolk
+ alternative_name: 'Norfolk (terytorium)'
+ng:
+ iso: NG
+ iso3: NGA
+ name: Nigeria
+ni:
+ iso: NI
+ iso3: NIC
+ name: Nikaragua
+nl:
+ iso: NL
+ iso3: NLD
+ name: 'Holandia (Niderlandy)'
+ alternative_name: Holandia
+no:
+ iso: NO
+ iso3: NOR
+ name: Norwegia
+np:
+ iso: NP
+ iso3: NPL
+ name: Nepal
+nr:
+ iso: NR
+ iso3: NRU
+ name: Nauru
+nu:
+ iso: NU
+ iso3: NIU
+ name: Niue
+nz:
+ iso: NZ
+ iso3: NZL
+ name: 'Nowa Zelandia'
+om:
+ iso: OM
+ iso3: OMN
+ name: Oman
+ alternative_name: 'Oman (panstwo)'
+pa:
+ iso: PA
+ iso3: PAN
+ name: Panama
+pe:
+ iso: PE
+ iso3: PER
+ name: Peru
+pf:
+ iso: PF
+ iso3: PYF
+ name: 'Polinezja Francuska'
+pg:
+ iso: PG
+ iso3: PNG
+ name: 'Papua-Nowa Gwinea'
+ph:
+ iso: PH
+ iso3: PHL
+ name: Filipiny
+pk:
+ iso: PK
+ iso3: PAK
+ name: Pakistan
+pl:
+ iso: PL
+ iso3: POL
+ name: Polska
+pm:
+ iso: PM
+ iso3: SPM
+ name: 'Saint-Pierre i Miquelon'
+pn:
+ iso: PN
+ iso3: PCN
+ name: Pitcairn
+pr:
+ iso: PR
+ iso3: PRI
+ name: Portoryko
+ps:
+ iso: PS
+ iso3: PSE
+ name: Palestyna
+ alternative_name: 'Autonomia Palestynska'
+pt:
+ iso: PT
+ iso3: PRT
+ name: Portugalia
+pw:
+ iso: PW
+ iso3: PLW
+ name: Palau
+py:
+ iso: PY
+ iso3: PRY
+ name: Paragwaj
+qa:
+ iso: QA
+ iso3: QAT
+ name: Katar
+re:
+ iso: RE
+ iso3: REU
+ name: Reunion
+ro:
+ iso: RO
+ iso3: ROU
+ name: Rumunia
+rs:
+ iso: RS
+ iso3: SRB
+ name: Serbia
+ru:
+ iso: RU
+ iso3: RUS
+ name: Rosja
+rw:
+ iso: RW
+ iso3: RWA
+ name: Rwanda
+sa:
+ iso: SA
+ iso3: SAU
+ name: 'Arabia Saudyjska'
+sb:
+ iso: SB
+ iso3: SLB
+ name: 'Wyspy Salomona'
+sc:
+ iso: SC
+ iso3: SYC
+ name: Seszele
+sd:
+ iso: SD
+ iso3: SDN
+ name: Sudan
+se:
+ iso: SE
+ iso3: SWE
+ name: Szwecja
+sg:
+ iso: SG
+ iso3: SGP
+ name: Singapur
+sh:
+ iso: SH
+ iso3: SHN
+ name: 'Swieta Helena i Zalezne'
+ alternative_name: 'Swieta Helena (kolonia)'
+si:
+ iso: SI
+ iso3: SVN
+ name: Slowenia
+sj:
+ iso: SJ
+ iso3: SJM
+ name: 'Svalbard]] i [[Jan Mayen (wyspa)'
+sk:
+ iso: SK
+ iso3: SVK
+ name: Slowacja
+sl:
+ iso: SL
+ iso3: SLE
+ name: 'Sierra Leone'
+sm:
+ iso: SM
+ iso3: SMR
+ name: 'San Marino'
+sn:
+ iso: SN
+ iso3: SEN
+ name: Senegal
+so:
+ iso: SO
+ iso3: SOM
+ name: Somalia
+sr:
+ iso: SR
+ iso3: SUR
+ name: Surinam
+st:
+ iso: ST
+ iso3: STP
+ name: 'Wyspy Swietego Tomasza i Ksiazeca'
+sv:
+ iso: SV
+ iso3: SLV
+ name: Salwador
+sy:
+ iso: SY
+ iso3: SYR
+ name: Syria
+sz:
+ iso: SZ
+ iso3: SWZ
+ name: Suazi
+tc:
+ iso: TC
+ iso3: TCA
+ name: 'Wyspy Turks i Caicos'
+ alternative_name: 'Turks i Caicos'
+td:
+ iso: TD
+ iso3: TCD
+ name: Czad
+tf:
+ iso: TF
+ iso3: ATF
+ name: 'Francuskie Terytoria Poludniowe'
+ alternative_name: 'Francuskie Terytoria Poludniowe i Antarktyczne'
+tg:
+ iso: TG
+ iso3: TGO
+ name: Togo
+th:
+ iso: TH
+ iso3: THA
+ name: Tajlandia
+tj:
+ iso: TJ
+ iso3: TJK
+ name: Tadzykistan
+tk:
+ iso: TK
+ iso3: TKL
+ name: Tokelau
+tl:
+ iso: TL
+ iso3: TLS
+ name: 'Timor Wschodni'
+tm:
+ iso: TM
+ iso3: TKM
+ name: Turkmenistan
+tn:
+ iso: TN
+ iso3: TUN
+ name: Tunezja
+to:
+ iso: TO
+ iso3: TON
+ name: Tonga
+tr:
+ iso: TR
+ iso3: TUR
+ name: Turcja
+tt:
+ iso: TT
+ iso3: TTO
+ name: 'Trynidad i Tobago'
+tv:
+ iso: TV
+ iso3: TUV
+ name: Tuvalu
+tw:
+ iso: TW
+ iso3: TWN
+ name: Tajwan
+ alternative_name: 'Republika Chinska'
+tz:
+ iso: TZ
+ iso3: TZA
+ name: Tanzania
+ua:
+ iso: UA
+ iso3: UKR
+ name: Ukraina
+ug:
+ iso: UG
+ iso3: UGA
+ name: Uganda
+um:
+ iso: UM
+ iso3: UMI
+ name: 'Dalekie Wyspy Mniejsze Stanów Zjednoczonych'
+us:
+ iso: US
+ iso3: USA
+ name: 'Stany Zjednoczone'
+uy:
+ iso: UY
+ iso3: URY
+ name: Urugwaj
+uz:
+ iso: UZ
+ iso3: UZB
+ name: Uzbekistan
+va:
+ iso: VA
+ iso3: VAT
+ name: Watykan
+vc:
+ iso: VC
+ iso3: VCT
+ name: 'Saint Vincent i Grenadyny'
+ve:
+ iso: VE
+ iso3: VEN
+ name: Wenezuela
+vg:
+ iso: VG
+ iso3: VGB
+ name: 'Brytyjskie Wyspy Dziewicze'
+vi:
+ iso: VI
+ iso3: VIR
+ name: 'Wyspy Dziewicze Stanów Zjednoczonych'
+vn:
+ iso: VN
+ iso3: VNM
+ name: Wietnam
+vu:
+ iso: VU
+ iso3: VUT
+ name: Vanuatu
+wf:
+ iso: WF
+ iso3: WLF
+ name: 'Wallis i Futuna'
+ws:
+ iso: WS
+ iso3: WSM
+ name: Samoa
+ye:
+ iso: YE
+ iso3: YEM
+ name: Jemen
+yt:
+ iso: YT
+ iso3: MYT
+ name: Majotta
+za:
+ iso: ZA
+ iso3: ZAF
+ name: 'Republika Poludniowej Afryki'
+zm:
+ iso: ZM
+ iso3: ZMB
+ name: Zambia
+zw:
+ iso: ZW
+ iso3: ZWE
+ name: Zimbabwe
