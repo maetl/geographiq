@@ -7,7 +7,7 @@ require 'open-uri'
 db_config = YAML::load(File.open(File.dirname(__FILE__) + '/config/database.yml'))
 ActiveRecord::Base.establish_connection(db_config)
 
-$Locales = ['en', 'es', 'fr', 'de']
+$Locales = ['en', 'es', 'fr', 'de', 'da', 'se', 'pl', 'ru', 'it', 'cs', 'ja', 'pt', 'ro']
 
 desc "installs a clean version of the schema"
 task :install do
@@ -61,39 +61,40 @@ task :collect, :lang do |t, args|
 end
 
 desc "pumps in data from CLDR table for supported locale"
-task :extract, :lang do |t, args|
+task :extract do
+  $Locales.each do |id|
+    cldr_path = 'tmp/cldr.'+ id + '.html'
+    languages_path = 'lib/resources/languages/'+ id + '.txt'
+    territories_path = 'lib/resources/territories/'+ id + '.txt'
 
-  cldr_path = 'tmp/cldr.'+ args[:lang] + '.html'
-  languages_path = 'tmp/languages.'+ args[:lang] + '.txt'
-  territories_path = 'tmp/territories.'+ args[:lang] + '.txt'
+    html = open(cldr_path) { |f| Hpricot(f) }
+    languages_txt = ""
+    territories_txt = ""
 
-  html = open(cldr_path) { |f| Hpricot(f) }
-  languages_txt = ""
-  territories_txt = ""
-
-  (html/"table[@border='1']//tr").each do |tr|
-    # --
-    meta_name = tr.at("td:nth(2)").andand.inner_html
-    if meta_name == "language"
-      iso_code = tr.at("td:nth(3)")
-      if args[:lang] == "en"
-        term = tr.at("td:nth(4)")
-      else
-        term = tr.at("td:nth(5)")
+    (html/"table[@border='1']//tr").each do |tr|
+      # --
+      meta_name = tr.at("td:nth(2)").andand.inner_html
+      if meta_name == "language"
+        iso_code = tr.at("td:nth(3)")
+        if id == "en"
+          term = tr.at("td:nth(4)")
+        else
+          term = tr.at("td:nth(5)")
+        end
+        languages_txt << iso_code.inner_html + ":" + term.inner_html + "\n"
+      elsif meta_name == "territory"
+        iso_code = tr.at("td:nth(3)")
+        if id == "en"
+          term = tr.at("td:nth(4)")
+        else
+          term = tr.at("td:nth(5)")
+        end
+        territories_txt << iso_code.inner_html + ":" + term.inner_html + "\n"
       end
-      languages_txt << iso_code.inner_html + ":" + term.inner_html + "\n"
-    elsif meta_name == "territory"
-      iso_code = tr.at("td:nth(3)")
-      if args[:lang] == "en"
-        term = tr.at("td:nth(4)")
-      else
-        term = tr.at("td:nth(5)")
-      end
-      territories_txt << iso_code.inner_html + ":" + term.inner_html + "\n"
+      # --
     end
-    # --
+
+    File.open(languages_path, 'w') {|f| f.write(languages_txt) }
+    File.open(territories_path, 'w') {|f| f.write(territories_txt) }    
   end
-  
-  File.open(languages_path, 'w') {|f| f.write(languages_txt) }
-  File.open(territories_path, 'w') {|f| f.write(territories_txt) }
 end
