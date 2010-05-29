@@ -2,7 +2,7 @@ require 'test/unit'
 require 'rubygems'
 require 'rack/test'
 
-require File.dirname(__FILE__) + '/../app/geographiq.rb'
+require File.dirname(__FILE__) + '/../lib/geographiq'
 
 class ApiTest < Test::Unit::TestCase
   include Rack::Test::Methods
