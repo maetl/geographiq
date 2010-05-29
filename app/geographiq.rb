@@ -22,13 +22,19 @@ module Geographiq
     end
     
     get '/languages' do
-      languages = Index::Name.languages.where('exonym = endonym')
-      respond_with languages
+      respond_with Index::Name.languages.basic.where('exonym = endonym')
+    end
+    
+    get '/languages/all' do
+      respond_with Index::Name.languages.where('exonym = endonym')
     end
     
     get '/languages/:id' do
-      languages = Index::Name.languages.where(:exonym => params[:id])
-      respond_with languages
+      respond_with Index::Name.languages.basic.where(:exonym => params[:id])
+    end
+    
+    get '/languages/all/:id' do
+      respond_with Index::Name.languages.where(:exonym => params[:id])
     end
     
     def respond_with relation
