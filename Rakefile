@@ -13,12 +13,13 @@ desc "installs a clean version of the schema"
 task :install do
   begin
     ActiveRecord::Schema.drop_table('geographiq_names')
+    ActiveRecord::Schema.drop_table('geographiq_names_index')
   rescue
     nil
   end
 
   ActiveRecord::Schema.define do
-    create_table "geographiq_names", :force => true do |t|
+    create_table "geographiq_names_index", :force => true do |t|
       t.column "term", :string, :limit => 140, :null => false
       t.column "category", :string, :limit => 80, :null => false
       t.column "is_basic", :boolean, :null => false

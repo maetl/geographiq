@@ -66,8 +66,9 @@ module Geographiq
   module Index
     
     class Name < ActiveRecord::Base
-      set_table_name :geographiq_names
+      set_table_name :geographiq_names_index
       scope :languages, where(:category => 'languages')
+      scope :basic, where(:is_basic => true)
     end
     
   end
