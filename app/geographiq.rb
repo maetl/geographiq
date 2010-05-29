@@ -21,6 +21,16 @@ module Geographiq
       end
     end
     
+    get '/languages' do
+      languages = Index::Name.languages.where('exonym = endonym')
+      respond_with languages
+    end
+    
+    get '/languages/:id' do
+      languages = Index::Name.languages.where(:exonym => params[:id])
+      respond_with languages
+    end
+    
     def respond_with relation
       respond_to do |accept|
         accept.txt    { render_txt  relation }
@@ -45,21 +55,11 @@ module Geographiq
       end
     end
     
-    get '/languages' do
-      languages = Index::TranslatedPhrase.languages.where('exonym = endonym')
-      respond_with languages
-    end
-    
-    get '/languages/:id' do
-      languages = Index::Language.languages.where(:exonym => params[:id])
-      respond_with languages
-    end
-    
   end
   
   module Index
     
-    class Language < ActiveRecord::Base
+    class Name < ActiveRecord::Base
       scope :languages, where(:category => 'languages')
     end
     

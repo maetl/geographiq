@@ -11,9 +11,8 @@ namespace :schema do
   
   desc "installs a clean version of the schema"
   task :install do
-    
     begin
-      ActiveRecord::Schema.drop_table('languages')
+      ActiveRecord::Schema.drop_table('names')
     rescue
       nil
     end
@@ -22,6 +21,7 @@ namespace :schema do
       create_table "names", :force => true do |t|
         t.column "term", :string, :limit => 140, :null => false
         t.column "category", :string, :limit => 80, :null => false
+        t.column "is_basic", :boolean
         t.column "endonym", :string, :limit => 5, :null => false
         t.column "exonym", :string, :limit => 5, :null => false
       end
@@ -63,15 +63,16 @@ namespace :lang do
       
       meta_name = tr.at("td:nth(2)")
       if meta_name.andand.inner_html == "language"
-        term_type = tr.at("td:nth(3)")
-        value_type = tr.at("td:nth(5)")
-        puts term_type.inner_html
-        txt << term_type.inner_html + ":" + value_type.inner_html + "\n"
+        iso_code = tr.at("td:nth(3)")
+        if args[:lang] == "en"
+          term = tr.at("td:nth(4)")
+        else
+          term = tr.at("td:nth(5)")
+        end
+        txt << iso_code.inner_html + ":" + term.inner_html + "\n"
       end
       
     end
-    
-    puts txt
     
     File.open(cldr_txt, 'w') {|f| f.write(txt) }
   end
