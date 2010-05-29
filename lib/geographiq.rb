@@ -37,6 +37,15 @@ module Geographiq
       respond_with Index::Name.languages.where(:exonym => params[:id])
     end
     
+    get '/languages/romanized/:id' do
+      if ['ru', 'ja'].include? params[:id]
+        respond_with Index::Name.languages.basic.where(:exonym => params[:id])
+      else
+        content_type 'text/plain'
+        error 404, "Not Available"
+      end
+    end
+    
     def respond_with relation
       respond_to do |accept|
         accept.txt    { render_txt  relation }
@@ -55,10 +64,11 @@ module Geographiq
     end
     
     def render_json relation
-      collection = { }
+      collection = Hash.new
       relation.each do |obj|
-        collection[]= { obj.endonym => obj.term }
+        collection.store(obj.endonym, obj.term)
       end
+      collection.to_s
     end
     
   end
