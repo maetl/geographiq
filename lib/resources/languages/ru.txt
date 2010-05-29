@@ -1,515 +1,515 @@
-aa:<span title="afar">афар</span>
-ab:<span title="abhazskij">абхазский</span>
-ace:<span title="ačehskij">ачехский</span>
-ach:<span title="ačoli">ачоли</span>
-ada:<span title="adangme">адангме</span>
-ady:<span title="adygejskij">адыгейский</span>
-ae:<span title="avestijskij">авестийский</span>
-af:<span title="afrikaans">африкаанс</span>
-afa:<span title="afrazijskij âzyk">афразийский язык</span>
-afh:<span title="afrihili">африхили</span>
-ain:<span title="ajnu">айну</span>
-ak:<span title="akan">акан</span>
-akk:<span title="akkadskij">аккадский</span>
-ale:<span title="aleutskij">алеутский</span>
-alg:<span title="algonkinskie âzyki">алгонкинские языки</span>
-alt:<span title="ûžnoaltajskij">южноалтайский</span>
-am:<span title="amharskij">амхарский</span>
-an:<span title="aragonskij">арагонский</span>
-ang:<span title="staroanglijskij">староанглийский</span>
-anp:<span title="angika">ангика</span>
-apa:<span title="apačskie âzyki">апачские языки</span>
-ar:<span title="arabskij">арабский</span>
-arc:<span title="aramejskij">арамейский</span>
-arn:<span title="araukanskij">арауканский</span>
-arp:<span title="arapaho">арапахо</span>
-art:<span title="iskusstvennyj âzyk">искусственный язык</span>
-arw:<span title="aravakskij">аравакский</span>
-as:<span title="assamskij">ассамский</span>
+aa:афар:afar
+ab:абхазский:abhazskij
+ace:ачехский:ačehskij
+ach:ачоли:ačoli
+ada:адангме:adangme
+ady:адыгейский:adygejskij
+ae:авестийский:avestijskij
+af:африкаанс:afrikaans
+afa:афразийский язык:afrazijskij âzyk
+afh:африхили:afrihili
+ain:айну:ajnu
+ak:акан:akan
+akk:аккадский:akkadskij
+ale:алеутский:aleutskij
+alg:алгонкинские языки:algonkinskie âzyki
+alt:южноалтайский:ûžnoaltajskij
+am:амхарский:amharskij
+an:арагонский:aragonskij
+ang:староанглийский:staroanglijskij
+anp:ангика:angika
+apa:апачские языки:apačskie âzyki
+ar:арабский:arabskij
+arc:арамейский:aramejskij
+arn:арауканский:araukanskij
+arp:арапахо:arapaho
+art:искусственный язык:iskusstvennyj âzyk
+arw:аравакский:aravakskij
+as:ассамский:assamskij
 asa:asa
-ast:<span title="asturijskij">астурийский</span>
-ath:<span title="atapačskie âzyki">атапачские языки</span>
-aus:<span title="avstralijskij âzyk">австралийский язык</span>
-av:<span title="avarskij">аварский</span>
-awa:<span title="avadhi">авадхи</span>
-ay:<span title="ajmara">аймара</span>
-az:<span title="azerbajdžanskij">азербайджанский</span>
-ba:<span title="baškirskij">башкирский</span>
-bad:<span title="banda">банда</span>
-bai:<span title="bamileke âzyki">бамилеке языки</span>
-bal:<span title="beludžskij">белуджский</span>
-ban:<span title="balijskij">балийский</span>
-bas:<span title="basa">баса</span>
-bat:<span title="baltijskij âzyk">балтийский язык</span>
-be:<span title="belorusskij">белорусский</span>
-bej:<span title="bedža">беджа</span>
-bem:<span title="bemba">бемба</span>
-ber:<span title="berberskij">берберский</span>
+ast:астурийский:asturijskij
+ath:атапачские языки:atapačskie âzyki
+aus:австралийский язык:avstralijskij âzyk
+av:аварский:avarskij
+awa:авадхи:avadhi
+ay:аймара:ajmara
+az:азербайджанский:azerbajdžanskij
+ba:башкирский:baškirskij
+bad:банда:banda
+bai:бамилеке языки:bamileke âzyki
+bal:белуджский:beludžskij
+ban:балийский:balijskij
+bas:баса:basa
+bat:балтийский язык:baltijskij âzyk
+be:белорусский:belorusskij
+bej:беджа:bedža
+bem:бемба:bemba
+ber:берберский:berberskij
 bez:bez
-bg:<span title="bolgarskij">болгарский</span>
-bh:<span title="bihari">бихари</span>
-bho:<span title="bhodžpuri">бходжпури</span>
-bi:<span title="bislama">бислама</span>
-bik:<span title="bikolʹskij">бикольский</span>
-bin:<span title="bini">бини</span>
-bla:<span title="siksika">сиксика</span>
-bm:<span title="bambarijskij">бамбарийский</span>
-bn:<span title="bengalʹskij">бенгальский</span>
-bnt:<span title="bantu">банту</span>
-bo:<span title="tibetskij">тибетский</span>
-br:<span title="bretonskij">бретонский</span>
-bra:<span title="braui">брауи</span>
-bs:<span title="bosnijskij">боснийский</span>
-btk:<span title="batakskij">батакский</span>
-bua:<span title="burâtskij">бурятский</span>
-bug:<span title="bugijskij">бугийский</span>
-byn:<span title="bilin (blin)">билин (блин)</span>
-ca:<span title="katalanskij">каталанский</span>
-cad:<span title="kaddo">каддо</span>
-cai:<span title="âzyk indejcev Centralʹnoj Ameriki">язык индейцев Центральной Америки</span>
-car:<span title="karib">кариб</span>
-cau:<span title="kavkazskij âzyk">кавказский язык</span>
-cch:<span title="atsam">атсам</span>
-ce:<span title="čečenskij">чеченский</span>
-ceb:<span title="kebuano">кебуано</span>
-cel:<span title="kelʹtskie drugie">кельтские другие</span>
-ch:<span title="čamorro">чаморро</span>
-chb:<span title="čibča">чибча</span>
-chg:<span title="čagatajskij">чагатайский</span>
-chk:<span title="čukotskij">чукотский</span>
-chm:<span title="marijskij (čeremisskij)">марийский (черемисский)</span>
-chn:<span title="činuk žargon">чинук жаргон</span>
-cho:<span title="čoktav">чоктав</span>
-chp:<span title="čipevajân">чипевайян</span>
-chr:<span title="čeroki">чероки</span>
-chy:<span title="čejenn">чейенн</span>
-cmc:<span title="čamskij âzyk">чамский язык</span>
-co:<span title="korsikanskij">корсиканский</span>
-cop:<span title="koptskij">коптский</span>
-cpe:<span title="anglo-kreolʹskie i pidžin">англо-креольские и пиджин</span>
-cpf:<span title="franko-kreolʹskie i pidžiny">франко-креольские и пиджины</span>
-cpp:<span title="portugalo-kreolʹskie i pidžiny">португало-креольские и пиджины</span>
-cr:<span title="kriijskij">криийский</span>
-crh:<span title="krymsko-tatarskij">крымско-татарский</span>
-crp:<span title="kreolʹskie i pidžiny">креольские и пиджины</span>
-cs:<span title="češskij">чешский</span>
-csb:<span title="kašubianskij">кашубианский</span>
-cu:<span title="cerkovnoslavânskij">церковнославянский</span>
-cus:<span title="kušitskij âzyk">кушитский язык</span>
-cv:<span title="čuvašskij">чувашский</span>
-cy:<span title="vallijskij">валлийский</span>
-da:<span title="datskij">датский</span>
-dak:<span title="dakota">дакота</span>
-dar:<span title="dargva">даргва</span>
-day:<span title="daâk">даяк</span>
-de:<span title="nemeckij">немецкий</span>
-de_AT:<span title="avstrijskij nemeckij">австрийский немецкий</span>
-de_CH:<span title="švejcarskij verhnenemeckij">швейцарский верхненемецкий</span>
-del:<span title="delavarskij">делаварский</span>
-den:<span title="slavânskij; [draft=contributed]">славянский; [draft=contributed]</span>
-dgr:<span title="dogrib">догриб</span>
-din:<span title="dinka">динка</span>
-doi:<span title="dogri">догри</span>
-dra:<span title="dravidijskij âzyk">дравидийский язык</span>
-dsb:<span title="nižnelužickij">нижнелужицкий</span>
-dua:<span title="duala">дуала</span>
-dum:<span title="sredneniderlandskij">средненидерландский</span>
-dv:<span title="malʹdivskij">мальдивский</span>
-dyu:<span title="diula (dʹûla)">диула (дьюла)</span>
-dz:<span title="dzong-ké">дзонг-кэ</span>
+bg:болгарский:bolgarskij
+bh:бихари:bihari
+bho:бходжпури:bhodžpuri
+bi:бислама:bislama
+bik:бикольский:bikolʹskij
+bin:бини:bini
+bla:сиксика:siksika
+bm:бамбарийский:bambarijskij
+bn:бенгальский:bengalʹskij
+bnt:банту:bantu
+bo:тибетский:tibetskij
+br:бретонский:bretonskij
+bra:брауи:braui
+bs:боснийский:bosnijskij
+btk:батакский:batakskij
+bua:бурятский:burâtskij
+bug:бугийский:bugijskij
+byn:билин (блин):bilin (blin)
+ca:каталанский:katalanskij
+cad:каддо:kaddo
+cai:язык индейцев Центральной Америки:âzyk indejcev Centralʹnoj Ameriki
+car:кариб:karib
+cau:кавказский язык:kavkazskij âzyk
+cch:атсам:atsam
+ce:чеченский:čečenskij
+ceb:кебуано:kebuano
+cel:кельтские другие:kelʹtskie drugie
+ch:чаморро:čamorro
+chb:чибча:čibča
+chg:чагатайский:čagatajskij
+chk:чукотский:čukotskij
+chm:марийский (черемисский):marijskij (čeremisskij)
+chn:чинук жаргон:činuk žargon
+cho:чоктав:čoktav
+chp:чипевайян:čipevajân
+chr:чероки:čeroki
+chy:чейенн:čejenn
+cmc:чамский язык:čamskij âzyk
+co:корсиканский:korsikanskij
+cop:коптский:koptskij
+cpe:англо-креольские и пиджин:anglo-kreolʹskie i pidžin
+cpf:франко-креольские и пиджины:franko-kreolʹskie i pidžiny
+cpp:португало-креольские и пиджины:portugalo-kreolʹskie i pidžiny
+cr:криийский:kriijskij
+crh:крымско-татарский:krymsko-tatarskij
+crp:креольские и пиджины:kreolʹskie i pidžiny
+cs:чешский:češskij
+csb:кашубианский:kašubianskij
+cu:церковнославянский:cerkovnoslavânskij
+cus:кушитский язык:kušitskij âzyk
+cv:чувашский:čuvašskij
+cy:валлийский:vallijskij
+da:датский:datskij
+dak:дакота:dakota
+dar:даргва:dargva
+day:даяк:daâk
+de:немецкий:nemeckij
+de_AT:австрийский немецкий:avstrijskij nemeckij
+de_CH:швейцарский верхненемецкий:švejcarskij verhnenemeckij
+del:делаварский:delavarskij
+den:славянский; [draft=contributed]:slavânskij; [draft=contributed]
+dgr:догриб:dogrib
+din:динка:dinka
+doi:догри:dogri
+dra:дравидийский язык:dravidijskij âzyk
+dsb:нижнелужицкий:nižnelužickij
+dua:дуала:duala
+dum:средненидерландский:sredneniderlandskij
+dv:мальдивский:malʹdivskij
+dyu:диула (дьюла):diula (dʹûla)
+dz:дзонг-кэ:dzong-ké
 ebu:ebu
-ee:<span title="éve">эве</span>
-efi:<span title="éfik">эфик</span>
-egy:<span title="drevneegipetskij">древнеегипетский</span>
-eka:<span title="ékadžuk">экаджук</span>
-el:<span title="grečeskij">греческий</span>
-elx:<span title="élamskij">эламский</span>
-en:<span title="anglijskij">английский</span>
-en_AU:<span title="avstralijskij anglijskij">австралийский английский</span>
-en_CA:<span title="kanadskij anglijskij">канадский английский</span>
-en_GB:<span title="britanskij anglijskij">британский английский</span>
-en_US:<span title="amerikanskij anglijskij">американский английский</span>
-enm:<span title="sredneanglijskij">среднеанглийский</span>
-eo:<span title="ésperanto">эсперанто</span>
-es:<span title="ispanskij">испанский</span>
-es_419:<span title="latinoamerikanskij ispanskij">латиноамериканский испанский</span>
-es_ES:<span title="ispanskij iberijskij">испанский иберийский</span>
-et:<span title="éstonskij">эстонский</span>
-eu:<span title="baskskij">баскский</span>
-ewo:<span title="évondo">эвондо</span>
-fa:<span title="persidskij">персидский</span>
-fan:<span title="fang">фанг</span>
-fat:<span title="fanti">фанти</span>
-ff:<span title="fulah">фулах</span>
-fi:<span title="finskij">финский</span>
-fil:<span title="filippinskij">филиппинский</span>
-fiu:<span title="finno-ugorskij âzyk">финно-угорский язык</span>
-fj:<span title="fidži">фиджи</span>
-fo:<span title="farerskij">фарерский</span>
-fon:<span title="fon">фон</span>
-fr:<span title="francuzskij">французский</span>
-fr_CA:<span title="kanadskij francuzskij">канадский французский</span>
-fr_CH:<span title="švejcarskij francuzskij">швейцарский французский</span>
-frm:<span title="srednefrancuzskij">среднефранцузский</span>
-fro:<span title="starofrancuzskij">старофранцузский</span>
-frr:<span title="frizskij severnyj">фризский северный</span>
-frs:<span title="vostočnyj frizskij">восточный фризский</span>
-fur:<span title="friulʹskij">фриульский</span>
-fy:<span title="frizskij">фризский</span>
-ga:<span title="irlandskij">ирландский</span>
-gaa:<span title="ga">га</span>
-gay:<span title="gajo">гайо</span>
-gba:<span title="gbaâ">гбая</span>
-gd:<span title="gélʹskij">гэльский</span>
-gem:<span title="germanskij âzyk">германский язык</span>
-gez:<span title="geéz">геэз</span>
-gil:<span title="gilʹbertskij">гильбертский</span>
-gl:<span title="galisijskij">галисийский</span>
-gmh:<span title="sredneverhnenemeckij">средневерхненемецкий</span>
-gn:<span title="guarani">гуарани</span>
-goh:<span title="drevneverhnenemeckij">древневерхненемецкий</span>
-gon:<span title="gondi">гонди</span>
-gor:<span title="gorontalo">горонтало</span>
-got:<span title="gotskij">готский</span>
-grb:<span title="grebo">гребо</span>
-grc:<span title="drevnegrečeskij">древнегреческий</span>
-gsw:<span title="Švejcarskij nemeckij">Швейцарский немецкий</span>
-gu:<span title="gudžarati">гуджарати</span>
-gv:<span title="ménskij">мэнский</span>
-gwi:<span title="gvičin">гвичин</span>
-ha:<span title="hausa">хауса</span>
-hai:<span title="hajda">хайда</span>
-haw:<span title="gavajskij">гавайский</span>
-he:<span title="ivrit">иврит</span>
-hi:<span title="hindi">хинди</span>
-hil:<span title="hiligajnon">хилигайнон</span>
-him:<span title="himačali">химачали</span>
-hit:<span title="hettskij">хеттский</span>
-hmn:<span title="hmong">хмонг</span>
-ho:<span title="hirimotu">хиримоту</span>
-hr:<span title="horvatskij">хорватский</span>
-hsb:<span title="verhnelužickij">верхнелужицкий</span>
-ht:<span title="gaitânskij">гаитянский</span>
-hu:<span title="vengerskij">венгерский</span>
-hup:<span title="hupa">хупа</span>
-hy:<span title="armânskij">армянский</span>
-hz:<span title="gerero">гереро</span>
-ia:<span title="interlingva">интерлингва</span>
-iba:<span title="ibanskij">ибанский</span>
-id:<span title="indonezijskij">индонезийский</span>
-ie:<span title="interlingve">интерлингве</span>
-ig:<span title="igbo">игбо</span>
-ii:<span title="syčuanʹ">сычуань</span>
-ijo:<span title="idžo">иджо</span>
-ik:<span title="inupiak">инупиак</span>
-ilo:<span title="iloko">илоко</span>
-inc:<span title="indijskij âzyk">индийский язык</span>
-ine:<span title="indoevropejskij âzyk">индоевропейский язык</span>
-inh:<span title="ingušskij">ингушский</span>
-io:<span title="ido">идо</span>
-ira:<span title="iranskij âzyk">иранский язык</span>
-iro:<span title="irokezskie âzyki">ирокезские языки</span>
-is:<span title="islandskij">исландский</span>
-it:<span title="italʹânskij">итальянский</span>
-iu:<span title="inuktitut">инуктитут</span>
-ja:<span title="âponskij">японский</span>
-jbo:<span title="ložban">ложбан</span>
-jpr:<span title="evrejsko-persidskij">еврейско-персидский</span>
-jrb:<span title="evrejsko-arabskij">еврейско-арабский</span>
-jv:<span title="âvanskij">яванский</span>
-ka:<span title="gruzinskij">грузинский</span>
-kaa:<span title="karakalpakskij">каракалпакский</span>
-kab:<span title="kabilʹskij">кабильский</span>
-kac:<span title="kačinskij">качинский</span>
-kaj:<span title="kadži">каджи</span>
-kam:<span title="kamba">камба</span>
-kar:<span title="karenskij">каренский</span>
-kaw:<span title="kavi">кави</span>
-kbd:<span title="kabardinskij">кабардинский</span>
-kcg:<span title="tʹâp">тьяп</span>
+ee:эве:éve
+efi:эфик:éfik
+egy:древнеегипетский:drevneegipetskij
+eka:экаджук:ékadžuk
+el:греческий:grečeskij
+elx:эламский:élamskij
+en:английский:anglijskij
+en_AU:австралийский английский:avstralijskij anglijskij
+en_CA:канадский английский:kanadskij anglijskij
+en_GB:британский английский:britanskij anglijskij
+en_US:американский английский:amerikanskij anglijskij
+enm:среднеанглийский:sredneanglijskij
+eo:эсперанто:ésperanto
+es:испанский:ispanskij
+es_419:латиноамериканский испанский:latinoamerikanskij ispanskij
+es_ES:испанский иберийский:ispanskij iberijskij
+et:эстонский:éstonskij
+eu:баскский:baskskij
+ewo:эвондо:évondo
+fa:персидский:persidskij
+fan:фанг:fang
+fat:фанти:fanti
+ff:фулах:fulah
+fi:финский:finskij
+fil:филиппинский:filippinskij
+fiu:финно-угорский язык:finno-ugorskij âzyk
+fj:фиджи:fidži
+fo:фарерский:farerskij
+fon:фон:fon
+fr:французский:francuzskij
+fr_CA:канадский французский:kanadskij francuzskij
+fr_CH:швейцарский французский:švejcarskij francuzskij
+frm:среднефранцузский:srednefrancuzskij
+fro:старофранцузский:starofrancuzskij
+frr:фризский северный:frizskij severnyj
+frs:восточный фризский:vostočnyj frizskij
+fur:фриульский:friulʹskij
+fy:фризский:frizskij
+ga:ирландский:irlandskij
+gaa:га:ga
+gay:гайо:gajo
+gba:гбая:gbaâ
+gd:гэльский:gélʹskij
+gem:германский язык:germanskij âzyk
+gez:геэз:geéz
+gil:гильбертский:gilʹbertskij
+gl:галисийский:galisijskij
+gmh:средневерхненемецкий:sredneverhnenemeckij
+gn:гуарани:guarani
+goh:древневерхненемецкий:drevneverhnenemeckij
+gon:гонди:gondi
+gor:горонтало:gorontalo
+got:готский:gotskij
+grb:гребо:grebo
+grc:древнегреческий:drevnegrečeskij
+gsw:Швейцарский немецкий:Švejcarskij nemeckij
+gu:гуджарати:gudžarati
+gv:мэнский:ménskij
+gwi:гвичин:gvičin
+ha:хауса:hausa
+hai:хайда:hajda
+haw:гавайский:gavajskij
+he:иврит:ivrit
+hi:хинди:hindi
+hil:хилигайнон:hiligajnon
+him:химачали:himačali
+hit:хеттский:hettskij
+hmn:хмонг:hmong
+ho:хиримоту:hirimotu
+hr:хорватский:horvatskij
+hsb:верхнелужицкий:verhnelužickij
+ht:гаитянский:gaitânskij
+hu:венгерский:vengerskij
+hup:хупа:hupa
+hy:армянский:armânskij
+hz:гереро:gerero
+ia:интерлингва:interlingva
+iba:ибанский:ibanskij
+id:индонезийский:indonezijskij
+ie:интерлингве:interlingve
+ig:игбо:igbo
+ii:сычуань:syčuanʹ
+ijo:иджо:idžo
+ik:инупиак:inupiak
+ilo:илоко:iloko
+inc:индийский язык:indijskij âzyk
+ine:индоевропейский язык:indoevropejskij âzyk
+inh:ингушский:ingušskij
+io:идо:ido
+ira:иранский язык:iranskij âzyk
+iro:ирокезские языки:irokezskie âzyki
+is:исландский:islandskij
+it:итальянский:italʹânskij
+iu:инуктитут:inuktitut
+ja:японский:âponskij
+jbo:ложбан:ložban
+jpr:еврейско-персидский:evrejsko-persidskij
+jrb:еврейско-арабский:evrejsko-arabskij
+jv:яванский:âvanskij
+ka:грузинский:gruzinskij
+kaa:каракалпакский:karakalpakskij
+kab:кабильский:kabilʹskij
+kac:качинский:kačinskij
+kaj:каджи:kadži
+kam:камба:kamba
+kar:каренский:karenskij
+kaw:кави:kavi
+kbd:кабардинский:kabardinskij
+kcg:тьяп:tʹâp
 kea:kea
-kfo:<span title="koro">коро</span>
-kg:<span title="kongo">конго</span>
-kha:<span title="khasi">кхаси</span>
-khi:<span title="kojsanskij âzyk">койсанский язык</span>
-kho:<span title="hotanskij">хотанский</span>
-ki:<span title="kikujû">кикуйю</span>
-kj:<span title="kunama">кунама</span>
-kk:<span title="kazahskij">казахский</span>
-kl:<span title="éskimosskij (grenlandskij)">эскимосский (гренландский)</span>
-km:<span title="khmerskij">кхмерский</span>
-kmb:<span title="kimbundijskij">кимбундийский</span>
-kn:<span title="kannada">каннада</span>
-ko:<span title="korejskij">корейский</span>
-kok:<span title="konkani">конкани</span>
-kos:<span title="kosraenskij">косраенский</span>
-kpe:<span title="kpelle">кпелле</span>
-kr:<span title="kanuri">канури</span>
-krc:<span title="karačaevo-balkarskij">карачаево-балкарский</span>
-krl:<span title="karelʹskij">карельский</span>
-kro:<span title="kru">кру</span>
-kru:<span title="kuruh">курух</span>
-ks:<span title="kašmiri">кашмири</span>
-ku:<span title="kurdskij">курдский</span>
-kum:<span title="kumykskij">кумыкский</span>
-kut:<span title="kutenai">кутенаи</span>
-kv:<span title="komi">коми</span>
-kw:<span title="kornijskij">корнийский</span>
-ky:<span title="kirgizskij">киргизский</span>
-la:<span title="latinskij">латинский</span>
-lad:<span title="ladino">ладино</span>
-lah:<span title="lahnda">лахнда</span>
-lam:<span title="lamba">ламба</span>
-lb:<span title="lûksemburgskij">люксембургский</span>
-lez:<span title="lezginskij">лезгинский</span>
-lg:<span title="ganda">ганда</span>
-li:<span title="limburgskij">лимбургский</span>
-ln:<span title="lingala">лингала</span>
-lo:<span title="laosskij">лаосский</span>
-lol:<span title="mongo">монго</span>
-loz:<span title="lozi">лози</span>
-lt:<span title="litovskij">литовский</span>
-lu:<span title="luba-katanga">луба-катанга</span>
-lua:<span title="luba-lulua">луба-лулуа</span>
-lui:<span title="luisenʹo">луисеньо</span>
-lun:<span title="lunda">лунда</span>
-luo:<span title="luo (Keniâ i Tanzaniâ)">луо (Кения и Танзания)</span>
-lus:<span title="lušaj">лушай</span>
+kfo:коро:koro
+kg:конго:kongo
+kha:кхаси:khasi
+khi:койсанский язык:kojsanskij âzyk
+kho:хотанский:hotanskij
+ki:кикуйю:kikujû
+kj:кунама:kunama
+kk:казахский:kazahskij
+kl:эскимосский (гренландский):éskimosskij (grenlandskij)
+km:кхмерский:khmerskij
+kmb:кимбундийский:kimbundijskij
+kn:каннада:kannada
+ko:корейский:korejskij
+kok:конкани:konkani
+kos:косраенский:kosraenskij
+kpe:кпелле:kpelle
+kr:канури:kanuri
+krc:карачаево-балкарский:karačaevo-balkarskij
+krl:карельский:karelʹskij
+kro:кру:kru
+kru:курух:kuruh
+ks:кашмири:kašmiri
+ku:курдский:kurdskij
+kum:кумыкский:kumykskij
+kut:кутенаи:kutenai
+kv:коми:komi
+kw:корнийский:kornijskij
+ky:киргизский:kirgizskij
+la:латинский:latinskij
+lad:ладино:ladino
+lah:лахнда:lahnda
+lam:ламба:lamba
+lb:люксембургский:lûksemburgskij
+lez:лезгинский:lezginskij
+lg:ганда:ganda
+li:лимбургский:limburgskij
+ln:лингала:lingala
+lo:лаосский:laosskij
+lol:монго:mongo
+loz:лози:lozi
+lt:литовский:litovskij
+lu:луба-катанга:luba-katanga
+lua:луба-лулуа:luba-lulua
+lui:луисеньо:luisenʹo
+lun:лунда:lunda
+luo:луо (Кения и Танзания):luo (Keniâ i Tanzaniâ)
+lus:лушай:lušaj
 luy:luy
-lv:<span title="latyšskij">латышский</span>
-mad:<span title="madurskij">мадурский</span>
-mag:<span title="magahi">магахи</span>
-mai:<span title="majthili">майтхили</span>
-mak:<span title="makassarskij">макассарский</span>
-man:<span title="mandingo">мандинго</span>
-map:<span title="avstronezijskij">австронезийский</span>
-mas:<span title="masai">масаи</span>
-mdf:<span title="mokšanskij">мокшанский</span>
-mdr:<span title="mandarskij">мандарский</span>
-men:<span title="mende">менде</span>
-mg:<span title="malagasijskij">малагасийский</span>
-mga:<span title="sredneirlandskij">среднеирландский</span>
-mh:<span title="maršallʹskij; [draft=contributed]">маршалльский; [draft=contributed]</span>
-mi:<span title="maori">маори</span>
-mic:<span title="mikmak">микмак</span>
-min:<span title="minangkabau">минангкабау</span>
-mis:<span title="smešannye âzyki">смешанные языки</span>
-mk:<span title="makedonskij">македонский</span>
-mkh:<span title="monkhmerskij âzyk">монкхмерский язык</span>
-ml:<span title="malaâlam">малаялам</span>
-mn:<span title="mongolʹskij">монгольский</span>
-mnc:<span title="manʹčžurskij">маньчжурский</span>
-mni:<span title="manipurskij">манипурский</span>
-mno:<span title="manobo âzyki">манобо языки</span>
-mo:<span title="moldavskij">молдавский</span>
-moh:<span title="mohauk">мохаук</span>
-mos:<span title="mosi">моси</span>
-mr:<span title="marathi">маратхи</span>
-ms:<span title="malajskij">малайский</span>
-mt:<span title="malʹtijskij">мальтийский</span>
-mul:<span title="neskolʹko âzykov">несколько языков</span>
-mun:<span title="munda âzyki">мунда языки</span>
-mus:<span title="krik">крик</span>
-mwl:<span title="mirandijskij">мирандийский</span>
-mwr:<span title="marvari">марвари</span>
-my:<span title="birmanskij">бирманский</span>
-myn:<span title="majâ âzyki">майя языки</span>
-myv:<span title="érzâ">эрзя</span>
-na:<span title="nauru">науру</span>
-nah:<span title="actekskij">ацтекский</span>
-nai:<span title="âzyk indejcev Severnoj Ameriki">язык индейцев Северной Америки</span>
-nap:<span title="neapolitanskij">неаполитанский</span>
-nb:<span title="norvežskij bukmol">норвежский букмол</span>
-nd:<span title="ndebeli (severnyj)">ндебели (северный)</span>
-nds:<span title="nižnegermanskij">нижнегерманский</span>
-ne:<span title="nepalʹskij">непальский</span>
-new:<span title="nevarskij">неварский</span>
-ng:<span title="ndonga">ндонга</span>
-nia:<span title="nias">ниас</span>
-nic:<span title="niger-kordofanskij âzyk">нигер-кордофанский язык</span>
-niu:<span title="niué">ниуэ</span>
-nl:<span title="gollandskij">голландский</span>
-nl_BE:<span title="belʹgijskij flamandskij">бельгийский фламандский</span>
-nn:<span title="norvežskij nûnorsk">норвежский нюнорск</span>
-no:<span title="norvežskij">норвежский</span>
-nog:<span title="nogajskij">ногайский</span>
-non:<span title="staronorvežskij">старонорвежский</span>
-nqo:<span title="nko">нко</span>
-nr:<span title="ndebeli ûžnyj">ндебели южный</span>
-nso:<span title="soto severnyj">сото северный</span>
-nub:<span title="nubijskie âzyki">нубийские языки</span>
-nv:<span title="navaho">навахо</span>
-nwc:<span title="nevari (klassičeskij)">невари (классический)</span>
-ny:<span title="nʹândža">ньянджа</span>
-nym:<span title="nʹâmvezi">ньямвези</span>
-nyn:<span title="nʹânkole">ньянколе</span>
-nyo:<span title="nʹoro">ньоро</span>
-nzi:<span title="nzima">нзима</span>
-oc:<span title="oksitanskij">окситанский</span>
-oj:<span title="odžibva">оджибва</span>
-om:<span title="oromo">оромо</span>
-or:<span title="oriâ">ория</span>
-os:<span title="osetinskij">осетинский</span>
-osa:<span title="osedži">оседжи</span>
-ota:<span title="starotureckij">старотурецкий</span>
-oto:<span title="otomangskie âzyki">отомангские языки</span>
-pa:<span title="pandžabi (pendžabi)">панджаби (пенджаби)</span>
-paa:<span title="papuasskij âzyk">папуасский язык</span>
-pag:<span title="pangasinan">пангасинан</span>
-pal:<span title="pehlevijskij">пехлевийский</span>
-pam:<span title="pampanga">пампанга</span>
-pap:<span title="papʹâmento">папьяменто</span>
-pau:<span title="palau">палау</span>
-peo:<span title="staropersidskij">староперсидский</span>
-phi:<span title="filippinskij âzyk">филиппинский язык</span>
-phn:<span title="finikijskij">финикийский</span>
-pi:<span title="pali">пали</span>
-pl:<span title="polʹskij">польский</span>
-pon:<span title="ponape">понапе</span>
-pra:<span title="prakrity âzyki">пракриты языки</span>
-pro:<span title="staroprovansalʹskij">старопровансальский</span>
-ps:<span title="pašto (puštu)">пашто (пушту)</span>
-pt:<span title="portugalʹskij">португальский</span>
-pt_BR:<span title="brazilʹskij portugalʹskij">бразильский португальский</span>
-pt_PT:<span title="Portugalʹskij iberijskij">Португальский иберийский</span>
-qu:<span title="kečua">кечуа</span>
-raj:<span title="radžasthani">раджастхани</span>
-rap:<span title="rapanui">рапануи</span>
-rar:<span title="rarotonganskij">раротонганский</span>
-rm:<span title="retoromanskij">ретороманский</span>
-rn:<span title="rundi">рунди</span>
-ro:<span title="rumynskij">румынский</span>
-roa:<span title="romanskij âzyk">романский язык</span>
+lv:латышский:latyšskij
+mad:мадурский:madurskij
+mag:магахи:magahi
+mai:майтхили:majthili
+mak:макассарский:makassarskij
+man:мандинго:mandingo
+map:австронезийский:avstronezijskij
+mas:масаи:masai
+mdf:мокшанский:mokšanskij
+mdr:мандарский:mandarskij
+men:менде:mende
+mg:малагасийский:malagasijskij
+mga:среднеирландский:sredneirlandskij
+mh:маршалльский; [draft=contributed]:maršallʹskij; [draft=contributed]
+mi:маори:maori
+mic:микмак:mikmak
+min:минангкабау:minangkabau
+mis:смешанные языки:smešannye âzyki
+mk:македонский:makedonskij
+mkh:монкхмерский язык:monkhmerskij âzyk
+ml:малаялам:malaâlam
+mn:монгольский:mongolʹskij
+mnc:маньчжурский:manʹčžurskij
+mni:манипурский:manipurskij
+mno:манобо языки:manobo âzyki
+mo:молдавский:moldavskij
+moh:мохаук:mohauk
+mos:моси:mosi
+mr:маратхи:marathi
+ms:малайский:malajskij
+mt:мальтийский:malʹtijskij
+mul:несколько языков:neskolʹko âzykov
+mun:мунда языки:munda âzyki
+mus:крик:krik
+mwl:мирандийский:mirandijskij
+mwr:марвари:marvari
+my:бирманский:birmanskij
+myn:майя языки:majâ âzyki
+myv:эрзя:érzâ
+na:науру:nauru
+nah:ацтекский:actekskij
+nai:язык индейцев Северной Америки:âzyk indejcev Severnoj Ameriki
+nap:неаполитанский:neapolitanskij
+nb:норвежский букмол:norvežskij bukmol
+nd:ндебели (северный):ndebeli (severnyj)
+nds:нижнегерманский:nižnegermanskij
+ne:непальский:nepalʹskij
+new:неварский:nevarskij
+ng:ндонга:ndonga
+nia:ниас:nias
+nic:нигер-кордофанский язык:niger-kordofanskij âzyk
+niu:ниуэ:niué
+nl:голландский:gollandskij
+nl_BE:бельгийский фламандский:belʹgijskij flamandskij
+nn:норвежский нюнорск:norvežskij nûnorsk
+no:норвежский:norvežskij
+nog:ногайский:nogajskij
+non:старонорвежский:staronorvežskij
+nqo:нко:nko
+nr:ндебели южный:ndebeli ûžnyj
+nso:сото северный:soto severnyj
+nub:нубийские языки:nubijskie âzyki
+nv:навахо:navaho
+nwc:невари (классический):nevari (klassičeskij)
+ny:ньянджа:nʹândža
+nym:ньямвези:nʹâmvezi
+nyn:ньянколе:nʹânkole
+nyo:ньоро:nʹoro
+nzi:нзима:nzima
+oc:окситанский:oksitanskij
+oj:оджибва:odžibva
+om:оромо:oromo
+or:ория:oriâ
+os:осетинский:osetinskij
+osa:оседжи:osedži
+ota:старотурецкий:starotureckij
+oto:отомангские языки:otomangskie âzyki
+pa:панджаби (пенджаби):pandžabi (pendžabi)
+paa:папуасский язык:papuasskij âzyk
+pag:пангасинан:pangasinan
+pal:пехлевийский:pehlevijskij
+pam:пампанга:pampanga
+pap:папьяменто:papʹâmento
+pau:палау:palau
+peo:староперсидский:staropersidskij
+phi:филиппинский язык:filippinskij âzyk
+phn:финикийский:finikijskij
+pi:пали:pali
+pl:польский:polʹskij
+pon:понапе:ponape
+pra:пракриты языки:prakrity âzyki
+pro:старопровансальский:staroprovansalʹskij
+ps:пашто (пушту):pašto (puštu)
+pt:португальский:portugalʹskij
+pt_BR:бразильский португальский:brazilʹskij portugalʹskij
+pt_PT:Португальский иберийский:Portugalʹskij iberijskij
+qu:кечуа:kečua
+raj:раджастхани:radžasthani
+rap:рапануи:rapanui
+rar:раротонганский:rarotonganskij
+rm:ретороманский:retoromanskij
+rn:рунди:rundi
+ro:румынский:rumynskij
+roa:романский язык:romanskij âzyk
 rof:rof
-rom:<span title="cyganskij">цыганский</span>
-root:<span title="kornevoj âzyk">корневой язык</span>
-ru:<span title="russkij">русский</span>
-rup:<span title="arumynskij">арумынский</span>
-rw:<span title="kinʹâruanda">киньяруанда</span>
+rom:цыганский:cyganskij
+root:корневой язык:kornevoj âzyk
+ru:русский:russkij
+rup:арумынский:arumynskij
+rw:киньяруанда:kinʹâruanda
 rwk:rwk
-sa:<span title="sanskrit">санскрит</span>
-sad:<span title="sandave">сандаве</span>
-sah:<span title="âkutskij">якутский</span>
-sai:<span title="âzyk indejcev Ûžnoj Ameriki">язык индейцев Южной Америки</span>
-sal:<span title="sališskie âzyki">салишские языки</span>
-sam:<span title="samaritânskij aramejskij">самаритянский арамейский</span>
-sas:<span title="sasaki">сасаки</span>
-sat:<span title="santali">сантали</span>
-sc:<span title="sardinskij">сардинский</span>
-scn:<span title="sicilijskij">сицилийский</span>
-sco:<span title="šotlandskij">шотландский</span>
-sd:<span title="sindhi">синдхи</span>
-se:<span title="saamskij (severnyj)">саамский (северный)</span>
-sel:<span title="selʹkupskij">селькупский</span>
-sem:<span title="semitskij âzyk">семитский язык</span>
-sg:<span title="sango">санго</span>
-sga:<span title="staroirlandskij">староирландский</span>
-sgn:<span title="âzyk gluhonemyh">язык глухонемых</span>
-sh:<span title="serbskohorvatskij">сербскохорватский</span>
-shn:<span title="šanskij">шанский</span>
-si:<span title="singalʹskij">сингальский</span>
-sid:<span title="sidama">сидама</span>
-sio:<span title="siu âzyki">сиу языки</span>
-sit:<span title="sinotibetskij âzyk">синотибетский язык</span>
-sk:<span title="slovackij">словацкий</span>
-sl:<span title="slovenskij">словенский</span>
-sla:<span title="slavânskij âzyk">славянский язык</span>
-sm:<span title="samoanskij">самоанский</span>
-sma:<span title="saamskij (ûžnyj)">саамский (южный)</span>
-smi:<span title="saamskie âzyki">саамские языки</span>
-smj:<span title="lule-saamskij">луле-саамский</span>
-smn:<span title="inari-saamskij">инари-саамский</span>
-sms:<span title="skolʹt-saamskij; [draft=contributed]">скольт-саамский; [draft=contributed]</span>
-sn:<span title="šona">шона</span>
-snk:<span title="soninke">сонинке</span>
-so:<span title="somali">сомали</span>
-sog:<span title="sogdijskij">согдийский</span>
-son:<span title="songai">сонгаи</span>
-sq:<span title="albanskij">албанский</span>
-sr:<span title="serbskij">сербский</span>
-srn:<span title="sranan tongo">сранан тонго</span>
-srr:<span title="serer">серер</span>
-ss:<span title="svazi">свази</span>
-ssa:<span title="nilo-saharskij âzyk">нило-сахарский язык</span>
-st:<span title="soto ûžnyj">сото южный</span>
-su:<span title="sundanskij">сунданский</span>
-suk:<span title="sukuma">сукума</span>
-sus:<span title="susu">сусу</span>
-sux:<span title="šumerskij">шумерский</span>
-sv:<span title="švedskij">шведский</span>
-sw:<span title="suahili">суахили</span>
-swb:<span title="komorskij">коморский</span>
-syc:<span title="klassičeskij sirijskij">классический сирийский</span>
-syr:<span title="sirijskij">сирийский</span>
-ta:<span title="tamilʹskij">тамильский</span>
-tai:<span title="tajskij âzyk">тайский язык</span>
-te:<span title="telugu">телугу</span>
-tem:<span title="temne">темне</span>
-ter:<span title="tereno">терено</span>
-tet:<span title="tetum">тетум</span>
-tg:<span title="tadžikskij">таджикский</span>
-th:<span title="tajskij">тайский</span>
-ti:<span title="tigrinʹâ">тигринья</span>
-tig:<span title="tigre">тигре</span>
-tiv:<span title="tivi">тиви</span>
-tk:<span title="turkmenskij">туркменский</span>
-tkl:<span title="tokelajskij">токелайский</span>
-tl:<span title="tagalog">тагалог</span>
-tlh:<span title="klingonskij">клингонский</span>
-tli:<span title="tlingit">тлингит</span>
-tmh:<span title="tamašek">тамашек</span>
-tn:<span title="tsvana">тсвана</span>
-to:<span title="tonga">тонга</span>
-tog:<span title="nʹâsa (tonga)">ньяса (тонга)</span>
-tpi:<span title="tok-pisin">ток-писин</span>
-tr:<span title="tureckij">турецкий</span>
-ts:<span title="tsonga">тсонга</span>
-tsi:<span title="cimšian">цимшиан</span>
-tt:<span title="tatarskij">татарский</span>
-tum:<span title="tumbuka">тумбука</span>
-tup:<span title="tupi">тупи</span>
-tut:<span title="altajskij âzyk">алтайский язык</span>
-tvl:<span title="tuvalu">тувалу</span>
-tw:<span title="tvi">тви</span>
-ty:<span title="taitânskij">таитянский</span>
-tyv:<span title="tuvinskij">тувинский</span>
-udm:<span title="udmurtskij">удмуртский</span>
-ug:<span title="ujgurskij">уйгурский</span>
-uga:<span title="ugaritskij">угаритский</span>
-uk:<span title="ukrainskij">украинский</span>
-umb:<span title="umbundu">умбунду</span>
-und:<span title="neizvestnyj ili nedejstvitelʹnyj âzyk">неизвестный или недействительный язык</span>
-ur:<span title="urdu">урду</span>
-uz:<span title="uzbekskij">узбекский</span>
-vai:<span title="vai">ваи</span>
-ve:<span title="venda">венда</span>
-vi:<span title="vʹetnamskij">вьетнамский</span>
-vo:<span title="volapûk">волапюк</span>
-vot:<span title="vodskij">водский</span>
-wa:<span title="vallonskij">валлонский</span>
-wak:<span title="vakašskie âzyki">вакашские языки</span>
-wal:<span title="volamo">воламо</span>
-war:<span title="varaj">варай</span>
-was:<span title="vašo">вашо</span>
-wen:<span title="lužickie âzyki">лужицкие языки</span>
-wo:<span title="volof">волоф</span>
-xal:<span title="kalmyckij">калмыцкий</span>
-xh:<span title="ksoza">ксоза</span>
-yao:<span title="âo">яо</span>
-yap:<span title="âp">яп</span>
-yi:<span title="idiš">идиш</span>
-yo:<span title="joruba">йоруба</span>
-ypk:<span title="ûpikskij âzyk">юпикский язык</span>
-yue:<span title="kantonskij">кантонский</span>
-za:<span title="čžuanʹ">чжуань</span>
-zap:<span title="sapotekskij">сапотекский</span>
-zbl:<span title="blissimvolika">блиссимволика</span>
-zen:<span title="zenagskij">зенагский</span>
-zh:<span title="kitajskij">китайский</span>
-zh_Hans:<span title="uproŝennyj kitajskij">упрощенный китайский</span>
-zh_Hant:<span title="Tradicionnyj kitajskij">Традиционный китайский</span>
-znd:<span title="zande">занде</span>
-zu:<span title="zulu">зулу</span>
-zun:<span title="zunʹi">зуньи</span>
-zxx:<span title="bez âzykovogo soderžaniâ">без языкового содержания</span>
-zza:<span title="zaza">заза</span>
+sa:санскрит:sanskrit
+sad:сандаве:sandave
+sah:якутский:âkutskij
+sai:язык индейцев Южной Америки:âzyk indejcev Ûžnoj Ameriki
+sal:салишские языки:sališskie âzyki
+sam:самаритянский арамейский:samaritânskij aramejskij
+sas:сасаки:sasaki
+sat:сантали:santali
+sc:сардинский:sardinskij
+scn:сицилийский:sicilijskij
+sco:шотландский:šotlandskij
+sd:синдхи:sindhi
+se:саамский (северный):saamskij (severnyj)
+sel:селькупский:selʹkupskij
+sem:семитский язык:semitskij âzyk
+sg:санго:sango
+sga:староирландский:staroirlandskij
+sgn:язык глухонемых:âzyk gluhonemyh
+sh:сербскохорватский:serbskohorvatskij
+shn:шанский:šanskij
+si:сингальский:singalʹskij
+sid:сидама:sidama
+sio:сиу языки:siu âzyki
+sit:синотибетский язык:sinotibetskij âzyk
+sk:словацкий:slovackij
+sl:словенский:slovenskij
+sla:славянский язык:slavânskij âzyk
+sm:самоанский:samoanskij
+sma:саамский (южный):saamskij (ûžnyj)
+smi:саамские языки:saamskie âzyki
+smj:луле-саамский:lule-saamskij
+smn:инари-саамский:inari-saamskij
+sms:скольт-саамский; [draft=contributed]:skolʹt-saamskij; [draft=contributed]
+sn:шона:šona
+snk:сонинке:soninke
+so:сомали:somali
+sog:согдийский:sogdijskij
+son:сонгаи:songai
+sq:албанский:albanskij
+sr:сербский:serbskij
+srn:сранан тонго:sranan tongo
+srr:серер:serer
+ss:свази:svazi
+ssa:нило-сахарский язык:nilo-saharskij âzyk
+st:сото южный:soto ûžnyj
+su:сунданский:sundanskij
+suk:сукума:sukuma
+sus:сусу:susu
+sux:шумерский:šumerskij
+sv:шведский:švedskij
+sw:суахили:suahili
+swb:коморский:komorskij
+syc:классический сирийский:klassičeskij sirijskij
+syr:сирийский:sirijskij
+ta:тамильский:tamilʹskij
+tai:тайский язык:tajskij âzyk
+te:телугу:telugu
+tem:темне:temne
+ter:терено:tereno
+tet:тетум:tetum
+tg:таджикский:tadžikskij
+th:тайский:tajskij
+ti:тигринья:tigrinʹâ
+tig:тигре:tigre
+tiv:тиви:tivi
+tk:туркменский:turkmenskij
+tkl:токелайский:tokelajskij
+tl:тагалог:tagalog
+tlh:клингонский:klingonskij
+tli:тлингит:tlingit
+tmh:тамашек:tamašek
+tn:тсвана:tsvana
+to:тонга:tonga
+tog:ньяса (тонга):nʹâsa (tonga)
+tpi:ток-писин:tok-pisin
+tr:турецкий:tureckij
+ts:тсонга:tsonga
+tsi:цимшиан:cimšian
+tt:татарский:tatarskij
+tum:тумбука:tumbuka
+tup:тупи:tupi
+tut:алтайский язык:altajskij âzyk
+tvl:тувалу:tuvalu
+tw:тви:tvi
+ty:таитянский:taitânskij
+tyv:тувинский:tuvinskij
+udm:удмуртский:udmurtskij
+ug:уйгурский:ujgurskij
+uga:угаритский:ugaritskij
+uk:украинский:ukrainskij
+umb:умбунду:umbundu
+und:неизвестный или недействительный язык:neizvestnyj ili nedejstvitelʹnyj âzyk
+ur:урду:urdu
+uz:узбекский:uzbekskij
+vai:ваи:vai
+ve:венда:venda
+vi:вьетнамский:vʹetnamskij
+vo:волапюк:volapûk
+vot:водский:vodskij
+wa:валлонский:vallonskij
+wak:вакашские языки:vakašskie âzyki
+wal:воламо:volamo
+war:варай:varaj
+was:вашо:vašo
+wen:лужицкие языки:lužickie âzyki
+wo:волоф:volof
+xal:калмыцкий:kalmyckij
+xh:ксоза:ksoza
+yao:яо:âo
+yap:яп:âp
+yi:идиш:idiš
+yo:йоруба:joruba
+ypk:юпикский язык:ûpikskij âzyk
+yue:кантонский:kantonskij
+za:чжуань:čžuanʹ
+zap:сапотекский:sapotekskij
+zbl:блиссимволика:blissimvolika
+zen:зенагский:zenagskij
+zh:китайский:kitajskij
+zh_Hans:упрощенный китайский:uproŝennyj kitajskij
+zh_Hant:Традиционный китайский:Tradicionnyj kitajskij
+znd:занде:zande
+zu:зулу:zulu
+zun:зуньи:zunʹi
+zxx:без языкового содержания:bez âzykovogo soderžaniâ
+zza:заза:zaza

@@ -1,511 +1,511 @@
-aa:<span title="afaru yǔ">アファル語</span>
-ab:<span title="abuhazu yǔ">アブハズ語</span>
-ace:<span title="achē yǔ">アチェー語</span>
-ach:<span title="achori yǔ">アチョリ語</span>
-ada:<span title="adangume yǔ">アダングメ語</span>
-ady:<span title="adige yǔ">アディゲ語</span>
-ae:<span title="avu~esuta yǔ">アヴェスタ語</span>
-af:<span title="afurikānsu yǔ">アフリカーンス語</span>
-afa:<span title="semu・hamu zhū yǔ">セム・ハム諸語</span>
-afh:<span title="afurihiri yǔ">アフリヒリ語</span>
-ain:<span title="ainu yǔ">アイヌ語</span>
-ak:<span title="akan yǔ">アカン語</span>
-akk:<span title="akkado yǔ">アッカド語</span>
-ale:<span title="areuto yǔ">アレウト語</span>
-alg:<span title="arugonkian yǔ zú">アルゴンキアン語族</span>
-alt:<span title="nánarutai yǔ">南アルタイ語</span>
-am:<span title="amuhara yǔ">アムハラ語</span>
-an:<span title="aragon yǔ">アラゴン語</span>
-ang:<span title="gǔ dài yīng yǔ">古代英語</span>
-anp:<span title="angika yǔ">アンギカ語</span>
-apa:<span title="apatchi yǔ zú">アパッチ語族</span>
-ar:<span title="arabia yǔ">アラビア語</span>
-arc:<span title="aramu yǔ">アラム語</span>
-arn:<span title="araukan yǔ">アラウカン語</span>
-arp:<span title="arapahō yǔ">アラパホー語</span>
-art:<span title="rén gōng zhū yǔ">人工諸語</span>
-arw:<span title="arawaku yǔ">アラワク語</span>
-as:<span title="assamu yǔ">アッサム語</span>
+aa:アファル語:afaru yǔ
+ab:アブハズ語:abuhazu yǔ
+ace:アチェー語:achē yǔ
+ach:アチョリ語:achori yǔ
+ada:アダングメ語:adangume yǔ
+ady:アディゲ語:adige yǔ
+ae:アヴェスタ語:avu~esuta yǔ
+af:アフリカーンス語:afurikānsu yǔ
+afa:セム・ハム諸語:semu・hamu zhū yǔ
+afh:アフリヒリ語:afurihiri yǔ
+ain:アイヌ語:ainu yǔ
+ak:アカン語:akan yǔ
+akk:アッカド語:akkado yǔ
+ale:アレウト語:areuto yǔ
+alg:アルゴンキアン語族:arugonkian yǔ zú
+alt:南アルタイ語:nánarutai yǔ
+am:アムハラ語:amuhara yǔ
+an:アラゴン語:aragon yǔ
+ang:古代英語:gǔ dài yīng yǔ
+anp:アンギカ語:angika yǔ
+apa:アパッチ語族:apatchi yǔ zú
+ar:アラビア語:arabia yǔ
+arc:アラム語:aramu yǔ
+arn:アラウカン語:araukan yǔ
+arp:アラパホー語:arapahō yǔ
+art:人工諸語:rén gōng zhū yǔ
+arw:アラワク語:arawaku yǔ
+as:アッサム語:assamu yǔ
 asa:asa
-ast:<span title="asuto~uriasu yǔ">アストゥリアス語</span>
-ath:<span title="asapasukan yǔ zú">アサパスカン語族</span>
-aus:<span title="ōsutoraria yǔ zú">オーストラリア語族</span>
-av:<span title="avu~aru yǔ">アヴァル語</span>
-awa:<span title="awadī yǔ">アワディー語</span>
-ay:<span title="aimara yǔ">アイマラ語</span>
-az:<span title="azerubaijan yǔ">アゼルバイジャン語</span>
-ba:<span title="bashikīru yǔ">バシキール語</span>
-bad:<span title="banda yǔ">バンダ語</span>
-bai:<span title="bamireke yǔ zú">バミレケ語族</span>
-bal:<span title="barūchī yǔ">バルーチー語</span>
-ban:<span title="bari yǔ">バリ語</span>
-bas:<span title="basa yǔ">バサ語</span>
-bat:<span title="baruto zhū yǔ">バルト諸語</span>
-be:<span title="berarūshi yǔ">ベラルーシ語</span>
-bej:<span title="beja yǔ">ベジャ語</span>
-bem:<span title="benba yǔ">ベンバ語</span>
-ber:<span title="beruberu zhū yǔ">ベルベル諸語</span>
+ast:アストゥリアス語:asuto~uriasu yǔ
+ath:アサパスカン語族:asapasukan yǔ zú
+aus:オーストラリア語族:ōsutoraria yǔ zú
+av:アヴァル語:avu~aru yǔ
+awa:アワディー語:awadī yǔ
+ay:アイマラ語:aimara yǔ
+az:アゼルバイジャン語:azerubaijan yǔ
+ba:バシキール語:bashikīru yǔ
+bad:バンダ語:banda yǔ
+bai:バミレケ語族:bamireke yǔ zú
+bal:バルーチー語:barūchī yǔ
+ban:バリ語:bari yǔ
+bas:バサ語:basa yǔ
+bat:バルト諸語:baruto zhū yǔ
+be:ベラルーシ語:berarūshi yǔ
+bej:ベジャ語:beja yǔ
+bem:ベンバ語:benba yǔ
+ber:ベルベル諸語:beruberu zhū yǔ
 bez:bez
-bg:<span title="burugaria yǔ">ブルガリア語</span>
-bh:<span title="bihāru yǔ">ビハール語</span>
-bho:<span title="bōjipurī yǔ">ボージプリー語</span>
-bi:<span title="bisurama yǔ">ビスラマ語</span>
-bik:<span title="bikoru yǔ">ビコル語</span>
-bin:<span title="bini yǔ">ビニ語</span>
-bla:<span title="shikushika yǔ">シクシカ語</span>
-bm:<span title="banbara yǔ">バンバラ語</span>
-bn:<span title="bengaru yǔ">ベンガル語</span>
-bnt:<span title="banto~u zhū yǔ">バントゥ諸語</span>
-bo:<span title="chibetto yǔ">チベット語</span>
-br:<span title="buruton yǔ">ブルトン語</span>
-bra:<span title="buraji yǔ">ブラジ語</span>
-bs:<span title="bosunia yǔ">ボスニア語</span>
-btk:<span title="bataku yǔ">バタク語</span>
-bua:<span title="buriyāto yǔ">ブリヤート語</span>
-bug:<span title="bugi yǔ">ブギ語</span>
-byn:<span title="birin yǔ">ビリン語</span>
-ca:<span title="kataronia yǔ">カタロニア語</span>
-cad:<span title="kadō yǔ">カドー語</span>
-cai:<span title="zhōng mǐindian zhū yǔ">中米インディアン諸語</span>
-car:<span title="karibu yǔ">カリブ語</span>
-cau:<span title="kōkasasu zhū yǔ">コーカサス諸語</span>
-cch:<span title="chawai yǔ">チャワイ語</span>
-ce:<span title="chechen yǔ">チェチェン語</span>
-ceb:<span title="sebuano yǔ">セブアノ語</span>
-cel:<span title="keruto zhū yǔ">ケルト諸語</span>
-ch:<span title="chamoro yǔ">チャモロ語</span>
-chb:<span title="chibucha yǔ">チブチャ語</span>
-chg:<span title="chagatai yǔ">チャガタイ語</span>
-chk:<span title="chūku yǔ">チューク語</span>
-chm:<span title="mari yǔ">マリ語</span>
-chn:<span title="bīchi・ra・mā děng">ビーチ・ラ・マー 等</span>
-cho:<span title="chokutō yǔ">チョクトー語</span>
-chp:<span title="chipewaian yǔ">チペワイアン語</span>
-chr:<span title="cherokī yǔ">チェロキー語</span>
-chy:<span title="shaian yǔ">シャイアン語</span>
-cmc:<span title="chamu yǔ zú">チャム語族</span>
-co:<span title="korushika yǔ">コルシカ語</span>
-cop:<span title="koputo yǔ">コプト語</span>
-cpe:<span title="yīng yǔga jī pánno hùn chéng yǔ･hùn hé yǔ">英語が基盤の混成語・混合語</span>
-cpf:<span title="furansu yǔga jī pánno hùn chéng yǔ･hùn hé yǔ">フランス語が基盤の混成語・混合語</span>
-cpp:<span title="porutogaru yǔga jī pánno hùn chéng yǔ･hùn hé yǔ">ポルトガル語が基盤の混成語・混合語</span>
-cr:<span title="kurī yǔ">クリー語</span>
-crh:<span title="kurimia・tatāru yǔ">クリミア・タタール語</span>
-crp:<span title="sono tāno hùn chéng yǔ･hùn hé yǔ">その他の混成語・混合語</span>
-cs:<span title="cheko yǔ">チェコ語</span>
-csb:<span title="kashūbu yǔ">カシューブ語</span>
-cu:<span title="jiào huìsurabu yǔ">教会スラブ語</span>
-cus:<span title="kushu zhū yǔ">クシュ諸語</span>
-cv:<span title="chuvu~ashu yǔ">チュヴァシュ語</span>
-cy:<span title="u~ēruzu yǔ">ウェールズ語</span>
-da:<span title="denmāku yǔ">デンマーク語</span>
-dak:<span title="dakota yǔ">ダコタ語</span>
-dar:<span title="darugan yǔ">ダルガン語</span>
-day:<span title="dayaku yǔ">ダヤク語</span>
-de:<span title="doitsu yǔ">ドイツ語</span>
-de_AT:<span title="doitsu yǔ (ōsutoria)">ドイツ語（オーストリア）</span>
-de_CH:<span title="zhèng tǒngdoitsu yǔ (suisu)">正統ドイツ語（スイス）</span>
-del:<span title="derau~ea yǔ">デラウェア語</span>
-den:<span title="sureibī yǔ">スレイビー語</span>
-dgr:<span title="doguribu yǔ">ドグリブ語</span>
-din:<span title="dinka yǔ">ディンカ語</span>
-doi:<span title="doguri yǔ">ドグリ語</span>
-dra:<span title="doravu~ida zhū yǔ">ドラヴィダ諸語</span>
-dsb:<span title="dīsorubia yǔ">低ソルビア語</span>
-dua:<span title="do~uara yǔ">ドゥアラ語</span>
-dum:<span title="zhōng shìoranda yǔ">中世オランダ語</span>
-dv:<span title="dibehi yǔ">ディベヒ語</span>
-dyu:<span title="duura yǔ">デゥウラ語</span>
-dz:<span title="zonka yǔ">ゾンカ語</span>
+bg:ブルガリア語:burugaria yǔ
+bh:ビハール語:bihāru yǔ
+bho:ボージプリー語:bōjipurī yǔ
+bi:ビスラマ語:bisurama yǔ
+bik:ビコル語:bikoru yǔ
+bin:ビニ語:bini yǔ
+bla:シクシカ語:shikushika yǔ
+bm:バンバラ語:banbara yǔ
+bn:ベンガル語:bengaru yǔ
+bnt:バントゥ諸語:banto~u zhū yǔ
+bo:チベット語:chibetto yǔ
+br:ブルトン語:buruton yǔ
+bra:ブラジ語:buraji yǔ
+bs:ボスニア語:bosunia yǔ
+btk:バタク語:bataku yǔ
+bua:ブリヤート語:buriyāto yǔ
+bug:ブギ語:bugi yǔ
+byn:ビリン語:birin yǔ
+ca:カタロニア語:kataronia yǔ
+cad:カドー語:kadō yǔ
+cai:中米インディアン諸語:zhōng mǐindian zhū yǔ
+car:カリブ語:karibu yǔ
+cau:コーカサス諸語:kōkasasu zhū yǔ
+cch:チャワイ語:chawai yǔ
+ce:チェチェン語:chechen yǔ
+ceb:セブアノ語:sebuano yǔ
+cel:ケルト諸語:keruto zhū yǔ
+ch:チャモロ語:chamoro yǔ
+chb:チブチャ語:chibucha yǔ
+chg:チャガタイ語:chagatai yǔ
+chk:チューク語:chūku yǔ
+chm:マリ語:mari yǔ
+chn:ビーチ・ラ・マー 等:bīchi・ra・mā děng
+cho:チョクトー語:chokutō yǔ
+chp:チペワイアン語:chipewaian yǔ
+chr:チェロキー語:cherokī yǔ
+chy:シャイアン語:shaian yǔ
+cmc:チャム語族:chamu yǔ zú
+co:コルシカ語:korushika yǔ
+cop:コプト語:koputo yǔ
+cpe:英語が基盤の混成語・混合語:yīng yǔga jī pánno hùn chéng yǔ･hùn hé yǔ
+cpf:フランス語が基盤の混成語・混合語:furansu yǔga jī pánno hùn chéng yǔ･hùn hé yǔ
+cpp:ポルトガル語が基盤の混成語・混合語:porutogaru yǔga jī pánno hùn chéng yǔ･hùn hé yǔ
+cr:クリー語:kurī yǔ
+crh:クリミア・タタール語:kurimia・tatāru yǔ
+crp:その他の混成語・混合語:sono tāno hùn chéng yǔ･hùn hé yǔ
+cs:チェコ語:cheko yǔ
+csb:カシューブ語:kashūbu yǔ
+cu:教会スラブ語:jiào huìsurabu yǔ
+cus:クシュ諸語:kushu zhū yǔ
+cv:チュヴァシュ語:chuvu~ashu yǔ
+cy:ウェールズ語:u~ēruzu yǔ
+da:デンマーク語:denmāku yǔ
+dak:ダコタ語:dakota yǔ
+dar:ダルガン語:darugan yǔ
+day:ダヤク語:dayaku yǔ
+de:ドイツ語:doitsu yǔ
+de_AT:ドイツ語（オーストリア）:doitsu yǔ (ōsutoria)
+de_CH:正統ドイツ語（スイス）:zhèng tǒngdoitsu yǔ (suisu)
+del:デラウェア語:derau~ea yǔ
+den:スレイビー語:sureibī yǔ
+dgr:ドグリブ語:doguribu yǔ
+din:ディンカ語:dinka yǔ
+doi:ドグリ語:doguri yǔ
+dra:ドラヴィダ諸語:doravu~ida zhū yǔ
+dsb:低ソルビア語:dīsorubia yǔ
+dua:ドゥアラ語:do~uara yǔ
+dum:中世オランダ語:zhōng shìoranda yǔ
+dv:ディベヒ語:dibehi yǔ
+dyu:デゥウラ語:duura yǔ
+dz:ゾンカ語:zonka yǔ
 ebu:ebu
-ee:<span title="eu~e yǔ">エウェ語</span>
-efi:<span title="efikku yǔ">エフィック語</span>
-egy:<span title="gǔ dàiejiputo yǔ">古代エジプト語</span>
-eka:<span title="ekajuku yǔ">エカジュク語</span>
-el:<span title="girisha yǔ">ギリシャ語</span>
-elx:<span title="eramu yǔ">エラム語</span>
-en:<span title="yīng yǔ">英語</span>
-en_AU:<span title="yīng yǔ (ōsutoraria)">英語（オーストラリア）</span>
-en_CA:<span title="kanada yīng yǔ">カナダ英語</span>
-en_GB:<span title="igirisu yīng yǔ">イギリス英語</span>
-en_US:<span title="amerika yīng yǔ">アメリカ英語</span>
-enm:<span title="zhōng shì yīng yǔ">中世英語</span>
-eo:<span title="esuperanto yǔ">エスペラント語</span>
-es:<span title="supein yǔ">スペイン語</span>
-es_419:<span title="supein yǔ (raten&apos;amerika)">スペイン語（ラテンアメリカ）</span>
-es_ES:<span title="supein yǔ (iberia bàn dǎo)">スペイン語（イベリア半島）</span>
-et:<span title="esutonia yǔ">エストニア語</span>
-eu:<span title="basuku yǔ">バスク語</span>
-ewo:<span title="eu~ondo yǔ">エウォンド語</span>
-fa:<span title="perushia yǔ">ペルシア語</span>
-fan:<span title="fangu yǔ">ファング語</span>
-fat:<span title="fantī yǔ">ファンティー語</span>
-ff:<span title="furani yǔ">フラニ語</span>
-fi:<span title="finrando yǔ">フィンランド語</span>
-fil:<span title="firipino yǔ">フィリピノ語</span>
-fiu:<span title="fin・ugoru zhū yǔ">フィン・ウゴル諸語</span>
-fj:<span title="fijī yǔ">フィジー語</span>
-fo:<span title="ferō yǔ">フェロー語</span>
-fon:<span title="fon yǔ">フォン語</span>
-fr:<span title="furansu yǔ">フランス語</span>
-fr_CA:<span title="furansu yǔ (kanada)">フランス語（カナダ）</span>
-fr_CH:<span title="furansu yǔ (suisu)">フランス語（スイス）</span>
-frm:<span title="zhōng qīfuransu yǔ">中期フランス語</span>
-fro:<span title="gǔfuransu yǔ">古フランス語</span>
-frs:<span title="dōngfurijia yǔ">東フリジア語</span>
-fur:<span title="furiuri yǔ">フリウリ語</span>
-fy:<span title="furijia yǔ">フリジア語</span>
-ga:<span title="airurando yǔ">アイルランド語</span>
-gaa:<span title="ga yǔ">ガ語</span>
-gay:<span title="gayo yǔ">ガヨ語</span>
-gba:<span title="baya yǔ">バヤ語</span>
-gd:<span title="sukottorando・gēru yǔ">スコットランド・ゲール語</span>
-gem:<span title="geruman zhū yǔ">ゲルマン諸語</span>
-gez:<span title="geezu yǔ">ゲエズ語</span>
-gil:<span title="kiribasu yǔ">キリバス語</span>
-gl:<span title="garishia yǔ">ガリシア語</span>
-gmh:<span title="zhōng gāodoitsu yǔ">中高ドイツ語</span>
-gn:<span title="guaranī yǔ">グアラニー語</span>
-goh:<span title="gǔ gāodoitsu yǔ">古高ドイツ語</span>
-gon:<span title="gōndī yǔ">ゴーンディー語</span>
-gor:<span title="gorontaro yǔ">ゴロンタロ語</span>
-got:<span title="gōto yǔ">ゴート語</span>
-grb:<span title="gurebo yǔ">グレボ語</span>
-grc:<span title="gǔ dàigirisha yǔ">古代ギリシャ語</span>
-gsw:<span title="suisudoitsu yǔ (suisu)">スイスドイツ語（スイス）</span>
-gu:<span title="gujarāto yǔ">グジャラート語</span>
-gv:<span title="man dǎo yǔ">マン島語</span>
-gwi:<span title="guu~itchin yǔ">グウィッチン語</span>
-ha:<span title="hausa yǔ">ハウサ語</span>
-hai:<span title="haida yǔ">ハイダ語</span>
-haw:<span title="hawai yǔ">ハワイ語</span>
-he:<span title="heburai yǔ">ヘブライ語</span>
-hi:<span title="hindī yǔ">ヒンディー語</span>
-hil:<span title="hirigainon yǔ">ヒリガイノン語</span>
-him:<span title="himacharu yǔ">ヒマチャル語</span>
-hit:<span title="hittaito yǔ">ヒッタイト語</span>
-hmn:<span title="fumon yǔ">フモン語</span>
-ho:<span title="hirimoto~u yǔ">ヒリモトゥ語</span>
-hr:<span title="kuroachia yǔ">クロアチア語</span>
-hsb:<span title="shàngsorubia yǔ">上ソルビア語</span>
-ht:<span title="haichi yǔ">ハイチ語</span>
-hu:<span title="hangarī yǔ">ハンガリー語</span>
-hup:<span title="atapasuka yǔ">アタパスカ語</span>
-hy:<span title="arumenia yǔ">アルメニア語</span>
-hz:<span title="herero yǔ">ヘレロ語</span>
-ia:<span title="intāringua yǔ">インターリングア語</span>
-iba:<span title="iban yǔ">イバン語</span>
-id:<span title="indoneshia yǔ">インドネシア語</span>
-ie:<span title="intāringu yǔ">インターリング語</span>
-ig:<span title="ibo yǔ">イボ語</span>
-ii:<span title="sì chuāni yǔ">四川イ語</span>
-ijo:<span title="ijō yǔ">イジョー語</span>
-ik:<span title="inupiakku yǔ">イヌピアック語</span>
-ilo:<span title="irokano yǔ">イロカノ語</span>
-inc:<span title="indo zhū yǔ">インド諸語</span>
-ine:<span title="yìn ōu zhū yǔ">印欧諸語</span>
-inh:<span title="ingushi yǔ">イングシ語</span>
-io:<span title="ido yǔ">イド語</span>
-ira:<span title="iran yǔ">イラン語</span>
-iro:<span title="irokoi yǔ zú">イロコイ語族</span>
-is:<span title="aisurando yǔ">アイスランド語</span>
-it:<span title="itaria yǔ">イタリア語</span>
-iu:<span title="inukuutitotto yǔ">イヌクウティトット語</span>
-ja:<span title="rì běn yǔ">日本語</span>
-jbo:<span title="rojiban yǔ">ロジバン語</span>
-jpr:<span title="yudaya・perushia yǔ">ユダヤ・ペルシア語</span>
-jrb:<span title="yudaya・arabia yǔ">ユダヤ・アラビア語</span>
-jv:<span title="jawa yǔ">ジャワ語</span>
-ka:<span title="gurujia yǔ">グルジア語</span>
-kaa:<span title="kara・karupaku yǔ">カラ・カルパク語</span>
-kab:<span title="kabiru yǔ">カビル語</span>
-kac:<span title="kachin yǔ">カチン語</span>
-kaj:<span title="kaje yǔ">カジェ語</span>
-kam:<span title="kanba yǔ">カンバ語</span>
-kar:<span title="karen yǔ">カレン語</span>
-kaw:<span title="kau~i yǔ">カウィ語</span>
-kbd:<span title="kabarudo yǔ">カバルド語</span>
-kcg:<span title="katabu yǔ">カタブ語</span>
+ee:エウェ語:eu~e yǔ
+efi:エフィック語:efikku yǔ
+egy:古代エジプト語:gǔ dàiejiputo yǔ
+eka:エカジュク語:ekajuku yǔ
+el:ギリシャ語:girisha yǔ
+elx:エラム語:eramu yǔ
+en:英語:yīng yǔ
+en_AU:英語（オーストラリア）:yīng yǔ (ōsutoraria)
+en_CA:カナダ英語:kanada yīng yǔ
+en_GB:イギリス英語:igirisu yīng yǔ
+en_US:アメリカ英語:amerika yīng yǔ
+enm:中世英語:zhōng shì yīng yǔ
+eo:エスペラント語:esuperanto yǔ
+es:スペイン語:supein yǔ
+es_419:スペイン語（ラテンアメリカ）:supein yǔ (raten'amerika)
+es_ES:スペイン語（イベリア半島）:supein yǔ (iberia bàn dǎo)
+et:エストニア語:esutonia yǔ
+eu:バスク語:basuku yǔ
+ewo:エウォンド語:eu~ondo yǔ
+fa:ペルシア語:perushia yǔ
+fan:ファング語:fangu yǔ
+fat:ファンティー語:fantī yǔ
+ff:フラニ語:furani yǔ
+fi:フィンランド語:finrando yǔ
+fil:フィリピノ語:firipino yǔ
+fiu:フィン・ウゴル諸語:fin・ugoru zhū yǔ
+fj:フィジー語:fijī yǔ
+fo:フェロー語:ferō yǔ
+fon:フォン語:fon yǔ
+fr:フランス語:furansu yǔ
+fr_CA:フランス語（カナダ）:furansu yǔ (kanada)
+fr_CH:フランス語（スイス）:furansu yǔ (suisu)
+frm:中期フランス語:zhōng qīfuransu yǔ
+fro:古フランス語:gǔfuransu yǔ
+frs:東フリジア語:dōngfurijia yǔ
+fur:フリウリ語:furiuri yǔ
+fy:フリジア語:furijia yǔ
+ga:アイルランド語:airurando yǔ
+gaa:ガ語:ga yǔ
+gay:ガヨ語:gayo yǔ
+gba:バヤ語:baya yǔ
+gd:スコットランド・ゲール語:sukottorando・gēru yǔ
+gem:ゲルマン諸語:geruman zhū yǔ
+gez:ゲエズ語:geezu yǔ
+gil:キリバス語:kiribasu yǔ
+gl:ガリシア語:garishia yǔ
+gmh:中高ドイツ語:zhōng gāodoitsu yǔ
+gn:グアラニー語:guaranī yǔ
+goh:古高ドイツ語:gǔ gāodoitsu yǔ
+gon:ゴーンディー語:gōndī yǔ
+gor:ゴロンタロ語:gorontaro yǔ
+got:ゴート語:gōto yǔ
+grb:グレボ語:gurebo yǔ
+grc:古代ギリシャ語:gǔ dàigirisha yǔ
+gsw:スイスドイツ語（スイス）:suisudoitsu yǔ (suisu)
+gu:グジャラート語:gujarāto yǔ
+gv:マン島語:man dǎo yǔ
+gwi:グウィッチン語:guu~itchin yǔ
+ha:ハウサ語:hausa yǔ
+hai:ハイダ語:haida yǔ
+haw:ハワイ語:hawai yǔ
+he:ヘブライ語:heburai yǔ
+hi:ヒンディー語:hindī yǔ
+hil:ヒリガイノン語:hirigainon yǔ
+him:ヒマチャル語:himacharu yǔ
+hit:ヒッタイト語:hittaito yǔ
+hmn:フモン語:fumon yǔ
+ho:ヒリモトゥ語:hirimoto~u yǔ
+hr:クロアチア語:kuroachia yǔ
+hsb:上ソルビア語:shàngsorubia yǔ
+ht:ハイチ語:haichi yǔ
+hu:ハンガリー語:hangarī yǔ
+hup:アタパスカ語:atapasuka yǔ
+hy:アルメニア語:arumenia yǔ
+hz:ヘレロ語:herero yǔ
+ia:インターリングア語:intāringua yǔ
+iba:イバン語:iban yǔ
+id:インドネシア語:indoneshia yǔ
+ie:インターリング語:intāringu yǔ
+ig:イボ語:ibo yǔ
+ii:四川イ語:sì chuāni yǔ
+ijo:イジョー語:ijō yǔ
+ik:イヌピアック語:inupiakku yǔ
+ilo:イロカノ語:irokano yǔ
+inc:インド諸語:indo zhū yǔ
+ine:印欧諸語:yìn ōu zhū yǔ
+inh:イングシ語:ingushi yǔ
+io:イド語:ido yǔ
+ira:イラン語:iran yǔ
+iro:イロコイ語族:irokoi yǔ zú
+is:アイスランド語:aisurando yǔ
+it:イタリア語:itaria yǔ
+iu:イヌクウティトット語:inukuutitotto yǔ
+ja:日本語:rì běn yǔ
+jbo:ロジバン語:rojiban yǔ
+jpr:ユダヤ・ペルシア語:yudaya・perushia yǔ
+jrb:ユダヤ・アラビア語:yudaya・arabia yǔ
+jv:ジャワ語:jawa yǔ
+ka:グルジア語:gurujia yǔ
+kaa:カラ・カルパク語:kara・karupaku yǔ
+kab:カビル語:kabiru yǔ
+kac:カチン語:kachin yǔ
+kaj:カジェ語:kaje yǔ
+kam:カンバ語:kanba yǔ
+kar:カレン語:karen yǔ
+kaw:カウィ語:kau~i yǔ
+kbd:カバルド語:kabarudo yǔ
+kcg:カタブ語:katabu yǔ
 kea:kea
-kfo:<span title="koro yǔ">コロ語</span>
-kg:<span title="kongo yǔ">コンゴ語</span>
-kha:<span title="kashi yǔ">カシ語</span>
-khi:<span title="koisan zhū yǔ">コイサン諸語</span>
-kho:<span title="kōtan yǔ">コータン語</span>
-ki:<span title="kikuyu yǔ">キクユ語</span>
-kj:<span title="kuanyama yǔ">クアニャマ語</span>
-kk:<span title="kazafu yǔ">カザフ語</span>
-kl:<span title="gurīnrando yǔ">グリーンランド語</span>
-km:<span title="kumēru yǔ">クメール語</span>
-kmb:<span title="kinbundo~u yǔ">キンブンドゥ語</span>
-kn:<span title="kan&apos;nada yǔ">カンナダ語</span>
-ko:<span title="hán guó yǔ">韓国語</span>
-kok:<span title="konkani yǔ">コンカニ語</span>
-kos:<span title="koshae yǔ">コシャエ語</span>
-kpe:<span title="kupere yǔ">クペレ語</span>
-kr:<span title="kanuri yǔ">カヌリ語</span>
-krc:<span title="karachai yǔ">カラチャイ語</span>
-krl:<span title="kareria yǔ">カレリア語</span>
-kro:<span title="kurū yǔ">クルー語</span>
-kru:<span title="kuruku yǔ">クルク語</span>
-ks:<span title="kashimīru yǔ">カシミール語</span>
-ku:<span title="kurudo yǔ">クルド語</span>
-kum:<span title="kumuku yǔ">クムク語</span>
-kut:<span title="kutenai yǔ">クテナイ語</span>
-kv:<span title="komi yǔ">コミ語</span>
-kw:<span title="kōn&apos;u~ōru yǔ">コーンウォール語</span>
-ky:<span title="kirugisu yǔ">キルギス語</span>
-la:<span title="raten yǔ">ラテン語</span>
-lad:<span title="rajino yǔ">ラジノ語</span>
-lah:<span title="rafundā yǔ">ラフンダー語</span>
-lam:<span title="ranba yǔ">ランバ語</span>
-lb:<span title="rukusenburuku yǔ">ルクセンブルク語</span>
-lez:<span title="rezugi yǔ">レズギ語</span>
-lg:<span title="ganda yǔ">ガンダ語</span>
-li:<span title="rinburufu yǔ">リンブルフ語</span>
-ln:<span title="ringara yǔ">リンガラ語</span>
-lo:<span title="rao yǔ">ラオ語</span>
-lol:<span title="mongo yǔ">モンゴ語</span>
-loz:<span title="rozu~i yǔ">ロズィ語</span>
-lt:<span title="ritoania yǔ">リトアニア語</span>
-lu:<span title="ruba・katanga yǔ">ルバ・カタンガ語</span>
-lua:<span title="ruba・rurua yǔ">ルバ・ルルア語</span>
-lui:<span title="ruisēnyo yǔ">ルイセーニョ語</span>
-lun:<span title="runda yǔ">ルンダ語</span>
-luo:<span title="ruo yǔ">ルオ語</span>
-lus:<span title="rushai yǔ">ルシャイ語</span>
+kfo:コロ語:koro yǔ
+kg:コンゴ語:kongo yǔ
+kha:カシ語:kashi yǔ
+khi:コイサン諸語:koisan zhū yǔ
+kho:コータン語:kōtan yǔ
+ki:キクユ語:kikuyu yǔ
+kj:クアニャマ語:kuanyama yǔ
+kk:カザフ語:kazafu yǔ
+kl:グリーンランド語:gurīnrando yǔ
+km:クメール語:kumēru yǔ
+kmb:キンブンドゥ語:kinbundo~u yǔ
+kn:カンナダ語:kan'nada yǔ
+ko:韓国語:hán guó yǔ
+kok:コンカニ語:konkani yǔ
+kos:コシャエ語:koshae yǔ
+kpe:クペレ語:kupere yǔ
+kr:カヌリ語:kanuri yǔ
+krc:カラチャイ語:karachai yǔ
+krl:カレリア語:kareria yǔ
+kro:クルー語:kurū yǔ
+kru:クルク語:kuruku yǔ
+ks:カシミール語:kashimīru yǔ
+ku:クルド語:kurudo yǔ
+kum:クムク語:kumuku yǔ
+kut:クテナイ語:kutenai yǔ
+kv:コミ語:komi yǔ
+kw:コーンウォール語:kōn'u~ōru yǔ
+ky:キルギス語:kirugisu yǔ
+la:ラテン語:raten yǔ
+lad:ラジノ語:rajino yǔ
+lah:ラフンダー語:rafundā yǔ
+lam:ランバ語:ranba yǔ
+lb:ルクセンブルク語:rukusenburuku yǔ
+lez:レズギ語:rezugi yǔ
+lg:ガンダ語:ganda yǔ
+li:リンブルフ語:rinburufu yǔ
+ln:リンガラ語:ringara yǔ
+lo:ラオ語:rao yǔ
+lol:モンゴ語:mongo yǔ
+loz:ロズィ語:rozu~i yǔ
+lt:リトアニア語:ritoania yǔ
+lu:ルバ・カタンガ語:ruba・katanga yǔ
+lua:ルバ・ルルア語:ruba・rurua yǔ
+lui:ルイセーニョ語:ruisēnyo yǔ
+lun:ルンダ語:runda yǔ
+luo:ルオ語:ruo yǔ
+lus:ルシャイ語:rushai yǔ
 luy:luy
-lv:<span title="ratobia yǔ">ラトビア語</span>
-mad:<span title="mado~ura yǔ">マドゥラ語</span>
-mag:<span title="magahī yǔ">マガヒー語</span>
-mai:<span title="maitirī yǔ">マイティリー語</span>
-mak:<span title="makassaru yǔ">マカッサル語</span>
-man:<span title="mandingo yǔ">マンディンゴ語</span>
-map:<span title="ōsutoroneshia zhū yǔ">オーストロネシア諸語</span>
-mas:<span title="masai yǔ">マサイ語</span>
-mdf:<span title="mokusha yǔ">モクシャ語</span>
-mdr:<span title="mandaru yǔ">マンダル語</span>
-men:<span title="mende yǔ">メンデ語</span>
-mg:<span title="madagasukaru yǔ">マダガスカル語</span>
-mga:<span title="zhōng qīairurando yǔ">中期アイルランド語</span>
-mh:<span title="māsharu yǔ">マーシャル語</span>
-mi:<span title="maori yǔ">マオリ語</span>
-mic:<span title="mikumaku yǔ">ミクマク語</span>
-min:<span title="minankabau yǔ">ミナンカバウ語</span>
-mis:<span title="sono tāno yán yǔ">その他の言語</span>
-mk:<span title="makedonia yǔ">マケドニア語</span>
-mkh:<span title="mon・kumēru zhū yǔ">モン・クメール諸語</span>
-ml:<span title="marayāramu yǔ">マラヤーラム語</span>
-mn:<span title="mongoru yǔ">モンゴル語</span>
-mnc:<span title="mǎn zhōu yǔ">満州語</span>
-mni:<span title="manipuru yǔ">マニプル語</span>
-mno:<span title="manobo yǔ zú">マノボ語族</span>
-mo:<span title="morudabia yǔ">モルダビア語</span>
-moh:<span title="mōhōku yǔ">モーホーク語</span>
-mos:<span title="moshi yǔ">モシ語</span>
-mr:<span title="marātī yǔ">マラーティー語</span>
-ms:<span title="marē yǔ">マレー語</span>
-mt:<span title="maruta yǔ">マルタ語</span>
-mul:<span title="fù shù yán yǔ">複数言語</span>
-mun:<span title="munda yǔ zú">ムンダ語族</span>
-mus:<span title="kurīku yǔ">クリーク語</span>
-mwl:<span title="miranda yǔ">ミランダ語</span>
-mwr:<span title="māruwārī yǔ">マールワーリー語</span>
-my:<span title="biruma yǔ">ビルマ語</span>
-myn:<span title="maya yǔ zú">マヤ語族</span>
-myv:<span title="eruja yǔ">エルジャ語</span>
-na:<span title="nauru yǔ">ナウル語</span>
-nah:<span title="nawatoru yǔ">ナワトル語</span>
-nai:<span title="běi mǐindian zhū yǔ">北米インディアン諸語</span>
-nap:<span title="napori yǔ">ナポリ語</span>
-nb:<span title="noruu~ē yǔ (būkumōru)">ノルウェー語 (ブークモール)</span>
-nd:<span title="běindebere yǔ">北ンデベレ語</span>
-nds:<span title="dī dedoitsu yǔ､dī desakuson yǔ">低地ドイツ語、低地サクソン語</span>
-ne:<span title="nepāru yǔ">ネパール語</span>
-new:<span title="newāru yǔ">ネワール語</span>
-ng:<span title="ndonga yǔ">ンドンガ語</span>
-nia:<span title="niasu yǔ">ニアス語</span>
-nic:<span title="nijēru・korudofan zhū yǔ">ニジェール・コルドファン諸語</span>
-niu:<span title="niūei yǔ">ニウーエイ語</span>
-nl:<span title="oranda yǔ">オランダ語</span>
-nl_BE:<span title="furemisshu yǔ">フレミッシュ語</span>
-nn:<span title="noruu~ē yǔ (nīnoshuku)">ノルウェー語 (ニーノシュク)</span>
-no:<span title="noruu~ē yǔ">ノルウェー語</span>
-nog:<span title="nogai yǔ">ノガイ語</span>
-non:<span title="gǔnorudo yǔ">古ノルド語</span>
-nqo:<span title="nko yǔ">ンコ語</span>
-nr:<span title="nánndebere yǔ">南ンデベレ語</span>
-nso:<span title="běi bùsoto yǔ">北部ソト語</span>
-nub:<span title="nubia yǔ zú">ヌビア語族</span>
-nv:<span title="nabaho yǔ">ナバホ語</span>
-nwc:<span title="gǔ diǎnnewāru yǔ">古典ネワール語</span>
-ny:<span title="nyanja yǔ,chichewa yǔ,chewa yǔ">ニャンジャ語、チチェワ語、チェワ語</span>
-nym:<span title="nyamuu~eji yǔ">ニャムウェジ語</span>
-nyn:<span title="nyankore yǔ">ニャンコレ語</span>
-nyo:<span title="nyoro yǔ">ニョロ語</span>
-nzi:<span title="nzema yǔ">ンゼマ語</span>
-oc:<span title="okku yǔ">オック語</span>
-oj:<span title="obujiwa yǔ">オブジワ語</span>
-om:<span title="oromo yǔ">オロモ語</span>
-or:<span title="oriyā yǔ">オリヤー語</span>
-os:<span title="oseto yǔ">オセト語</span>
-osa:<span title="osēji yǔ">オセージ語</span>
-ota:<span title="osumantoruko yǔ">オスマントルコ語</span>
-oto:<span title="otomi yǔ zú">オトミ語族</span>
-pa:<span title="panjabu yǔ">パンジャブ語</span>
-paa:<span title="papua zhū yǔ">パプア諸語</span>
-pag:<span title="pangashinan yǔ">パンガシナン語</span>
-pal:<span title="pafuravu~i yǔ">パフラヴィ語</span>
-pam:<span title="panpanga yǔ">パンパンガ語</span>
-pap:<span title="papiamento yǔ">パピアメント語</span>
-pau:<span title="parao yǔ">パラオ語</span>
-peo:<span title="gǔ dàiperushia yǔ">古代ペルシア語</span>
-phi:<span title="firipin zhū yǔ">フィリピン諸語</span>
-phn:<span title="fenikia yǔ">フェニキア語</span>
-pi:<span title="pāri yǔ">パーリ語</span>
-pl:<span title="pōrando yǔ">ポーランド語</span>
-pon:<span title="ponpei yǔ">ポンペイ語</span>
-pra:<span title="purākuritto yǔ zú">プラークリット語族</span>
-pro:<span title="gǔ qīpurobansu yǔ">古期プロバンス語</span>
-ps:<span title="pashuto~ū yǔ">パシュトゥー語</span>
-pt:<span title="porutogaru yǔ">ポルトガル語</span>
-pt_BR:<span title="porutogaru yǔ (burajiru)">ポルトガル語 (ブラジル)</span>
-pt_PT:<span title="porutogaru yǔ (iberia bàn dǎo)">ポルトガル語（イベリア半島）</span>
-qu:<span title="kechua yǔ">ケチュア語</span>
-raj:<span title="rājasutān yǔ">ラージャスターン語</span>
-rap:<span title="rapanui yǔ">ラパヌイ語</span>
-rar:<span title="rarotoga yǔ">ラロトガ語</span>
-rm:<span title="reto・roman yǔ">レト・ロマン語</span>
-rn:<span title="rundi yǔ">ルンディ語</span>
-ro:<span title="rūmania yǔ">ルーマニア語</span>
-roa:<span title="romansu zhū yǔ">ロマンス諸語</span>
+lv:ラトビア語:ratobia yǔ
+mad:マドゥラ語:mado~ura yǔ
+mag:マガヒー語:magahī yǔ
+mai:マイティリー語:maitirī yǔ
+mak:マカッサル語:makassaru yǔ
+man:マンディンゴ語:mandingo yǔ
+map:オーストロネシア諸語:ōsutoroneshia zhū yǔ
+mas:マサイ語:masai yǔ
+mdf:モクシャ語:mokusha yǔ
+mdr:マンダル語:mandaru yǔ
+men:メンデ語:mende yǔ
+mg:マダガスカル語:madagasukaru yǔ
+mga:中期アイルランド語:zhōng qīairurando yǔ
+mh:マーシャル語:māsharu yǔ
+mi:マオリ語:maori yǔ
+mic:ミクマク語:mikumaku yǔ
+min:ミナンカバウ語:minankabau yǔ
+mis:その他の言語:sono tāno yán yǔ
+mk:マケドニア語:makedonia yǔ
+mkh:モン・クメール諸語:mon・kumēru zhū yǔ
+ml:マラヤーラム語:marayāramu yǔ
+mn:モンゴル語:mongoru yǔ
+mnc:満州語:mǎn zhōu yǔ
+mni:マニプル語:manipuru yǔ
+mno:マノボ語族:manobo yǔ zú
+mo:モルダビア語:morudabia yǔ
+moh:モーホーク語:mōhōku yǔ
+mos:モシ語:moshi yǔ
+mr:マラーティー語:marātī yǔ
+ms:マレー語:marē yǔ
+mt:マルタ語:maruta yǔ
+mul:複数言語:fù shù yán yǔ
+mun:ムンダ語族:munda yǔ zú
+mus:クリーク語:kurīku yǔ
+mwl:ミランダ語:miranda yǔ
+mwr:マールワーリー語:māruwārī yǔ
+my:ビルマ語:biruma yǔ
+myn:マヤ語族:maya yǔ zú
+myv:エルジャ語:eruja yǔ
+na:ナウル語:nauru yǔ
+nah:ナワトル語:nawatoru yǔ
+nai:北米インディアン諸語:běi mǐindian zhū yǔ
+nap:ナポリ語:napori yǔ
+nb:ノルウェー語 (ブークモール):noruu~ē yǔ (būkumōru)
+nd:北ンデベレ語:běindebere yǔ
+nds:低地ドイツ語、低地サクソン語:dī dedoitsu yǔ､dī desakuson yǔ
+ne:ネパール語:nepāru yǔ
+new:ネワール語:newāru yǔ
+ng:ンドンガ語:ndonga yǔ
+nia:ニアス語:niasu yǔ
+nic:ニジェール・コルドファン諸語:nijēru・korudofan zhū yǔ
+niu:ニウーエイ語:niūei yǔ
+nl:オランダ語:oranda yǔ
+nl_BE:フレミッシュ語:furemisshu yǔ
+nn:ノルウェー語 (ニーノシュク):noruu~ē yǔ (nīnoshuku)
+no:ノルウェー語:noruu~ē yǔ
+nog:ノガイ語:nogai yǔ
+non:古ノルド語:gǔnorudo yǔ
+nqo:ンコ語:nko yǔ
+nr:南ンデベレ語:nánndebere yǔ
+nso:北部ソト語:běi bùsoto yǔ
+nub:ヌビア語族:nubia yǔ zú
+nv:ナバホ語:nabaho yǔ
+nwc:古典ネワール語:gǔ diǎnnewāru yǔ
+ny:ニャンジャ語、チチェワ語、チェワ語:nyanja yǔ,chichewa yǔ,chewa yǔ
+nym:ニャムウェジ語:nyamuu~eji yǔ
+nyn:ニャンコレ語:nyankore yǔ
+nyo:ニョロ語:nyoro yǔ
+nzi:ンゼマ語:nzema yǔ
+oc:オック語:okku yǔ
+oj:オブジワ語:obujiwa yǔ
+om:オロモ語:oromo yǔ
+or:オリヤー語:oriyā yǔ
+os:オセト語:oseto yǔ
+osa:オセージ語:osēji yǔ
+ota:オスマントルコ語:osumantoruko yǔ
+oto:オトミ語族:otomi yǔ zú
+pa:パンジャブ語:panjabu yǔ
+paa:パプア諸語:papua zhū yǔ
+pag:パンガシナン語:pangashinan yǔ
+pal:パフラヴィ語:pafuravu~i yǔ
+pam:パンパンガ語:panpanga yǔ
+pap:パピアメント語:papiamento yǔ
+pau:パラオ語:parao yǔ
+peo:古代ペルシア語:gǔ dàiperushia yǔ
+phi:フィリピン諸語:firipin zhū yǔ
+phn:フェニキア語:fenikia yǔ
+pi:パーリ語:pāri yǔ
+pl:ポーランド語:pōrando yǔ
+pon:ポンペイ語:ponpei yǔ
+pra:プラークリット語族:purākuritto yǔ zú
+pro:古期プロバンス語:gǔ qīpurobansu yǔ
+ps:パシュトゥー語:pashuto~ū yǔ
+pt:ポルトガル語:porutogaru yǔ
+pt_BR:ポルトガル語 (ブラジル):porutogaru yǔ (burajiru)
+pt_PT:ポルトガル語（イベリア半島）:porutogaru yǔ (iberia bàn dǎo)
+qu:ケチュア語:kechua yǔ
+raj:ラージャスターン語:rājasutān yǔ
+rap:ラパヌイ語:rapanui yǔ
+rar:ラロトガ語:rarotoga yǔ
+rm:レト・ロマン語:reto・roman yǔ
+rn:ルンディ語:rundi yǔ
+ro:ルーマニア語:rūmania yǔ
+roa:ロマンス諸語:romansu zhū yǔ
 rof:rof
-rom:<span title="romānī yǔ">ロマーニー語</span>
-root:<span title="rūto">ルート</span>
-ru:<span title="roshia yǔ">ロシア語</span>
-rup:<span title="arūmania yǔ">アルーマニア語</span>
-rw:<span title="ruwanda yǔ">ルワンダ語</span>
+rom:ロマーニー語:romānī yǔ
+root:ルート:rūto
+ru:ロシア語:roshia yǔ
+rup:アルーマニア語:arūmania yǔ
+rw:ルワンダ語:ruwanda yǔ
 rwk:rwk
-sa:<span title="sansukuritto yǔ">サンスクリット語</span>
-sad:<span title="sandau~e yǔ">サンダウェ語</span>
-sah:<span title="yakūto yǔ">ヤクート語</span>
-sai:<span title="nán mǐindian zhū yǔ">南米インディアン諸語</span>
-sal:<span title="seirisshu yǔ zú">セイリッシュ語族</span>
-sam:<span title="samaria・aramu yǔ">サマリア・アラム語</span>
-sas:<span title="sasaku yǔ">ササク語</span>
-sat:<span title="santārī yǔ">サンターリー語</span>
-sc:<span title="sarudēnya yǔ">サルデーニャ語</span>
-scn:<span title="shichiria yǔ">シチリア語</span>
-sco:<span title="sukottorando yǔ">スコットランド語</span>
-sd:<span title="shindo yǔ">シンド語</span>
-se:<span title="běisāmi yǔ">北サーミ語</span>
-sel:<span title="serikupu yǔ">セリクプ語</span>
-sem:<span title="semu zhū yǔ">セム諸語</span>
-sg:<span title="sango yǔ">サンゴ語</span>
-sga:<span title="gǔ qīairurando yǔ">古期アイルランド語</span>
-sgn:<span title="shǒumane yán yǔ">手まね言語</span>
-sh:<span title="serubo=kuroachia yǔ">セルボ＝クロアチア語</span>
-shn:<span title="shan yǔ">シャン語</span>
-si:<span title="shinhara yǔ">シンハラ語</span>
-sid:<span title="shidamo yǔ">シダモ語</span>
-sio:<span title="sū yǔ zú">スー語族</span>
-sit:<span title="shina・chibetto zhū yǔ">シナ・チベット諸語</span>
-sk:<span title="surobakia yǔ">スロバキア語</span>
-sl:<span title="surobenia yǔ">スロベニア語</span>
-sla:<span title="surabu zhū yǔ">スラブ諸語</span>
-sm:<span title="samoa yǔ">サモア語</span>
-sma:<span title="nánsāmi yǔ">南サーミ語</span>
-smi:<span title="sāmi zhū yǔ">サーミ諸語</span>
-smj:<span title="rure・sāmi yǔ">ルレ・サーミ語</span>
-smn:<span title="inari・sāmi yǔ">イナリ・サーミ語</span>
-sms:<span title="sukoruto・sāmi yǔ">スコルト・サーミ語</span>
-sn:<span title="shona yǔ">ショナ語</span>
-snk:<span title="soninke yǔ">ソニンケ語</span>
-so:<span title="somari yǔ">ソマリ語</span>
-sog:<span title="sogudo yǔ">ソグド語</span>
-son:<span title="songai yǔ">ソンガイ語</span>
-sq:<span title="arubania yǔ">アルバニア語</span>
-sr:<span title="serubia yǔ">セルビア語</span>
-srn:<span title="surinamu yǔ">スリナム語</span>
-srr:<span title="sereru yǔ">セレル語</span>
-ss:<span title="shisuwati yǔ">シスワティ語</span>
-ssa:<span title="nairu・sahara zhū yǔ">ナイル・サハラ諸語</span>
-st:<span title="nán bùsoto yǔ">南部ソト語</span>
-su:<span title="sunda yǔ">スンダ語</span>
-suk:<span title="sukuma yǔ">スクマ語</span>
-sus:<span title="susu yǔ">スス語</span>
-sux:<span title="shumēru yǔ">シュメール語</span>
-sv:<span title="suu~ēden yǔ">スウェーデン語</span>
-sw:<span title="suwahiri yǔ">スワヒリ語</span>
-swb:<span title="komoro yǔ">コモロ語</span>
-syr:<span title="shiria yǔ">シリア語</span>
-ta:<span title="tamīru yǔ">タミール語</span>
-tai:<span title="tai zhū yǔ">タイ諸語</span>
-te:<span title="terugu yǔ">テルグ語</span>
-tem:<span title="temune yǔ">テムネ語</span>
-ter:<span title="terēno yǔ">テレーノ語</span>
-tet:<span title="teto~un yǔ">テトゥン語</span>
-tg:<span title="tajiku yǔ">タジク語</span>
-th:<span title="tai yǔ">タイ語</span>
-ti:<span title="tigurinia yǔ">ティグリニア語</span>
-tig:<span title="tigure yǔ">ティグレ語</span>
-tiv:<span title="tibu yǔ">ティブ語</span>
-tk:<span title="torukumen yǔ">トルクメン語</span>
-tkl:<span title="tokerau yǔ">トケラウ語</span>
-tl:<span title="tagarogu yǔ">タガログ語</span>
-tlh:<span title="kuringon yǔ">クリンゴン語</span>
-tli:<span title="toringitto yǔ">トリンギット語</span>
-tmh:<span title="tamasheku yǔ">タマシェク語</span>
-tn:<span title="tsuwana yǔ">ツワナ語</span>
-to:<span title="tonga yǔ">トンガ語</span>
-tog:<span title="tonga yǔ (niasa)">トンガ語 (ニアサ)</span>
-tpi:<span title="toku・pishin yǔ">トク・ピシン語</span>
-tr:<span title="toruko yǔ">トルコ語</span>
-ts:<span title="tsu~onga yǔ">ツォンガ語</span>
-tsi:<span title="chimushu yǔ">チムシュ語</span>
-tt:<span title="tatāru yǔ">タタール語</span>
-tum:<span title="to~unbuka yǔ">トゥンブカ語</span>
-tup:<span title="to~upi yǔ zú">トゥピ語族</span>
-tut:<span title="arutai zhū yǔ">アルタイ諸語</span>
-tvl:<span title="tsubaru yǔ">ツバル語</span>
-tw:<span title="tou~i yǔ">トウィ語</span>
-ty:<span title="tahichi yǔ">タヒチ語</span>
-tyv:<span title="to~uvu~a yǔ">トゥヴァ語</span>
-udm:<span title="udomuruto yǔ">ウドムルト語</span>
-ug:<span title="uiguru yǔ">ウイグル語</span>
-uga:<span title="ugarito yǔ">ウガリト語</span>
-uk:<span title="ukuraina yǔ">ウクライナ語</span>
-umb:<span title="unbundo~u yǔ">ウンブンドゥ語</span>
-und:<span title="fēi què dìng">非確定</span>
-ur:<span title="urudo~ū yǔ">ウルドゥー語</span>
-uz:<span title="uzubeku yǔ">ウズベク語</span>
-vai:<span title="vu~ai yǔ">ヴァイ語</span>
-ve:<span title="benda yǔ">ベンダ語</span>
-vi:<span title="betonamu yǔ">ベトナム語</span>
-vo:<span title="borapyuku yǔ">ボラピュク語</span>
-vot:<span title="bōto yǔ">ボート語</span>
-wa:<span title="waron yǔ">ワロン語</span>
-wak:<span title="wakashi yǔ zú">ワカシ語族</span>
-wal:<span title="warramo yǔ">ワッラモ語</span>
-war:<span title="warai yǔ">ワライ語</span>
-was:<span title="washo yǔ">ワショ語</span>
-wen:<span title="sorubia yǔ zú">ソルビア語族</span>
-wo:<span title="u~orofu yǔ">ウォロフ語</span>
-xal:<span title="karumuiku yǔ">カルムイク語</span>
-xh:<span title="kosa yǔ">コサ語</span>
-yao:<span title="yao yǔ">ヤオ語</span>
-yap:<span title="yappu yǔ">ヤップ語</span>
-yi:<span title="idisshu yǔ">イディッシュ語</span>
-yo:<span title="yoruba yǔ">ヨルバ語</span>
-ypk:<span title="yupikku yǔ zú">ユピック語族</span>
-yue:<span title="guǎng dōng yǔ">広東語</span>
-za:<span title="chiwan yǔ">チワン語</span>
-zap:<span title="zapotekku yǔ">ザポテック語</span>
-zen:<span title="zenaga yǔ">ゼナガ語</span>
-zh:<span title="zhōng guó yǔ">中国語</span>
-zh_Hans:<span title="jiǎn tǐ zhōng guó yǔ">簡体中国語</span>
-zh_Hant:<span title="fán tǐ zhōng guó yǔ">繁体中国語</span>
-znd:<span title="zande yǔ">ザンデ語</span>
-zu:<span title="zūrū yǔ">ズールー語</span>
-zun:<span title="zuni yǔ">ズニ語</span>
-zxx:<span title="yán yǔ de nèi róngnashi">言語的内容なし</span>
+sa:サンスクリット語:sansukuritto yǔ
+sad:サンダウェ語:sandau~e yǔ
+sah:ヤクート語:yakūto yǔ
+sai:南米インディアン諸語:nán mǐindian zhū yǔ
+sal:セイリッシュ語族:seirisshu yǔ zú
+sam:サマリア・アラム語:samaria・aramu yǔ
+sas:ササク語:sasaku yǔ
+sat:サンターリー語:santārī yǔ
+sc:サルデーニャ語:sarudēnya yǔ
+scn:シチリア語:shichiria yǔ
+sco:スコットランド語:sukottorando yǔ
+sd:シンド語:shindo yǔ
+se:北サーミ語:běisāmi yǔ
+sel:セリクプ語:serikupu yǔ
+sem:セム諸語:semu zhū yǔ
+sg:サンゴ語:sango yǔ
+sga:古期アイルランド語:gǔ qīairurando yǔ
+sgn:手まね言語:shǒumane yán yǔ
+sh:セルボ＝クロアチア語:serubo=kuroachia yǔ
+shn:シャン語:shan yǔ
+si:シンハラ語:shinhara yǔ
+sid:シダモ語:shidamo yǔ
+sio:スー語族:sū yǔ zú
+sit:シナ・チベット諸語:shina・chibetto zhū yǔ
+sk:スロバキア語:surobakia yǔ
+sl:スロベニア語:surobenia yǔ
+sla:スラブ諸語:surabu zhū yǔ
+sm:サモア語:samoa yǔ
+sma:南サーミ語:nánsāmi yǔ
+smi:サーミ諸語:sāmi zhū yǔ
+smj:ルレ・サーミ語:rure・sāmi yǔ
+smn:イナリ・サーミ語:inari・sāmi yǔ
+sms:スコルト・サーミ語:sukoruto・sāmi yǔ
+sn:ショナ語:shona yǔ
+snk:ソニンケ語:soninke yǔ
+so:ソマリ語:somari yǔ
+sog:ソグド語:sogudo yǔ
+son:ソンガイ語:songai yǔ
+sq:アルバニア語:arubania yǔ
+sr:セルビア語:serubia yǔ
+srn:スリナム語:surinamu yǔ
+srr:セレル語:sereru yǔ
+ss:シスワティ語:shisuwati yǔ
+ssa:ナイル・サハラ諸語:nairu・sahara zhū yǔ
+st:南部ソト語:nán bùsoto yǔ
+su:スンダ語:sunda yǔ
+suk:スクマ語:sukuma yǔ
+sus:スス語:susu yǔ
+sux:シュメール語:shumēru yǔ
+sv:スウェーデン語:suu~ēden yǔ
+sw:スワヒリ語:suwahiri yǔ
+swb:コモロ語:komoro yǔ
+syr:シリア語:shiria yǔ
+ta:タミール語:tamīru yǔ
+tai:タイ諸語:tai zhū yǔ
+te:テルグ語:terugu yǔ
+tem:テムネ語:temune yǔ
+ter:テレーノ語:terēno yǔ
+tet:テトゥン語:teto~un yǔ
+tg:タジク語:tajiku yǔ
+th:タイ語:tai yǔ
+ti:ティグリニア語:tigurinia yǔ
+tig:ティグレ語:tigure yǔ
+tiv:ティブ語:tibu yǔ
+tk:トルクメン語:torukumen yǔ
+tkl:トケラウ語:tokerau yǔ
+tl:タガログ語:tagarogu yǔ
+tlh:クリンゴン語:kuringon yǔ
+tli:トリンギット語:toringitto yǔ
+tmh:タマシェク語:tamasheku yǔ
+tn:ツワナ語:tsuwana yǔ
+to:トンガ語:tonga yǔ
+tog:トンガ語 (ニアサ):tonga yǔ (niasa)
+tpi:トク・ピシン語:toku・pishin yǔ
+tr:トルコ語:toruko yǔ
+ts:ツォンガ語:tsu~onga yǔ
+tsi:チムシュ語:chimushu yǔ
+tt:タタール語:tatāru yǔ
+tum:トゥンブカ語:to~unbuka yǔ
+tup:トゥピ語族:to~upi yǔ zú
+tut:アルタイ諸語:arutai zhū yǔ
+tvl:ツバル語:tsubaru yǔ
+tw:トウィ語:tou~i yǔ
+ty:タヒチ語:tahichi yǔ
+tyv:トゥヴァ語:to~uvu~a yǔ
+udm:ウドムルト語:udomuruto yǔ
+ug:ウイグル語:uiguru yǔ
+uga:ウガリト語:ugarito yǔ
+uk:ウクライナ語:ukuraina yǔ
+umb:ウンブンドゥ語:unbundo~u yǔ
+und:非確定:fēi què dìng
+ur:ウルドゥー語:urudo~ū yǔ
+uz:ウズベク語:uzubeku yǔ
+vai:ヴァイ語:vu~ai yǔ
+ve:ベンダ語:benda yǔ
+vi:ベトナム語:betonamu yǔ
+vo:ボラピュク語:borapyuku yǔ
+vot:ボート語:bōto yǔ
+wa:ワロン語:waron yǔ
+wak:ワカシ語族:wakashi yǔ zú
+wal:ワッラモ語:warramo yǔ
+war:ワライ語:warai yǔ
+was:ワショ語:washo yǔ
+wen:ソルビア語族:sorubia yǔ zú
+wo:ウォロフ語:u~orofu yǔ
+xal:カルムイク語:karumuiku yǔ
+xh:コサ語:kosa yǔ
+yao:ヤオ語:yao yǔ
+yap:ヤップ語:yappu yǔ
+yi:イディッシュ語:idisshu yǔ
+yo:ヨルバ語:yoruba yǔ
+ypk:ユピック語族:yupikku yǔ zú
+yue:広東語:guǎng dōng yǔ
+za:チワン語:chiwan yǔ
+zap:ザポテック語:zapotekku yǔ
+zen:ゼナガ語:zenaga yǔ
+zh:中国語:zhōng guó yǔ
+zh_Hans:簡体中国語:jiǎn tǐ zhōng guó yǔ
+zh_Hant:繁体中国語:fán tǐ zhōng guó yǔ
+znd:ザンデ語:zande yǔ
+zu:ズールー語:zūrū yǔ
+zun:ズニ語:zuni yǔ
+zxx:言語的内容なし:yán yǔ de nèi róngnashi
