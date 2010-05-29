@@ -9,10 +9,10 @@ ActiveRecord::Base.establish_connection(db_config)
 module Geographiq
   class Application < Sinatra::Base
     
-    use(Rack::Conneg) do |conneg|
-      conneg.set :accept_all_extensions, false
-      conneg.set :fallback, :html
-      conneg.provide([:txt, :json])
+    use(Rack::Conneg) do |negotiator|
+      negotiator.set :accept_all_extensions, false
+      negotiator.set :fallback, :html
+      negotiator.provide([:txt, :json])
     end
     
     before do
