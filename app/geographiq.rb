@@ -50,7 +50,7 @@ module Geographiq
     
     def render_txt relation
       relation.collect do |obj|
-        [obj.endonym, obj.term].join(':') + "\n"
+        [obj.endonym, obj.term].join(';') + "\n"
       end
     end
     
