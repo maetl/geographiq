@@ -51,7 +51,7 @@ module Geographiq
     def render_json relation
       collection = { }
       relation.each do |obj|
-        collection << { obj.endonym => obj.term }
+        collection[]= { obj.endonym => obj.term }
       end
     end
     
@@ -60,6 +60,7 @@ module Geographiq
   module Index
     
     class Name < ActiveRecord::Base
+      set_table_name :geographiq_names
       scope :languages, where(:category => 'languages')
     end
     
