@@ -2,7 +2,7 @@ require 'test/unit'
 require 'rubygems'
 require 'rack/test'
 
-require File.dirname(__FILE__) + '/../index'
+require File.dirname(__FILE__) + '/../app/geographiq.rb'
 
 class ApiTest < Test::Unit::TestCase
   include Rack::Test::Methods
@@ -11,9 +11,30 @@ class ApiTest < Test::Unit::TestCase
     Geographiq::Application
   end
 
-  def test_it_says_title
-    get '/'
+  def test_basic_languages_endonyms
+    get '/languages.txt'
     assert last_response.ok?
-    assert_equal 'Geographiq', last_response.body
+    assert last_response.body.include? 'en;English'
+    assert last_response.body.include? 'de;Deutsch'
   end
+
+  def test_basic_languages_exonyms
+    get '/languages/en.txt'
+    assert last_response.ok?
+    assert last_response.body.include? 'en;English'
+    assert last_response.body.include? 'de;German'
+  end 
+  
+  def test_all_languages_endonyms
+    get '/languages/all.txt'
+    assert last_response.ok?
+    assert last_response.body.include? 'de;Deutsch'
+  end
+  
+  def test_all_languages_exonyms
+    get '/languages/all/de.txt'
+    assert last_response.ok?
+    assert last_response.body.include? 'nap;Neapolitanisch'
+  end
+  
 end
