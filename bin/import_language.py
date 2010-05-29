@@ -4,7 +4,7 @@ import os
 import yaml
 import urllib2
 from BeautifulSoup import BeautifulSoup
-
+import re
 
 def main():
   currencies = {}
@@ -13,7 +13,12 @@ def main():
 
   extract_lang_code = 'fr'
   
-  page = urllib2.urlopen('http://unicode.org/repos/cldr-tmp/trunk/diff/summary/' + extract_lang_code + '.html')
+  print "Extracting Language..."
+  
+  #page = urllib2.urlopen('http://unicode.org/repos/cldr-tmp/trunk/diff/summary/' + extract_lang_code + '.html')
+  
+  
+  
   soup = BeautifulSoup(page)
   table = soup.findAll('table', border='1')
   for tr in table[0].findAll('tr'):
