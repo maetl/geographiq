@@ -1,8 +1,21 @@
 Geographiq
-----------
+==========
 
-> Un indice global géographique
+Un indice global géographique
+
+About
+-----
 
 HTTP web service for localizing software in multiple languages.
 
-See: http://geographiq.info/
+Live
+----
+
+http://geographiq.info/
+
+Hosted on http://heroku.com
+
+Credits
+-------
+
+(c) 2010, Mark Rickerby <http://maetl.net>
