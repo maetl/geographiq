@@ -31,7 +31,7 @@ end
 
 desc "import collected text into active schema"
 task :import => :install do
-  require 'app/geographiq'
+  require 'lib/geographiq'
   $Locales.each do |id|
     languages = File.open("tmp/languages.#{id}.txt")
     languages.readlines.each do |line|
