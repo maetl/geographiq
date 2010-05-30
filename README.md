@@ -26,7 +26,7 @@ Installation
 <pre>local$ git clone maetl/geographiq geographiq
 local$ cd geographiq</pre>
 
-First, clear out any local database taples and load the default locale data:
+First, clear out any local database tables and load the default locale data:
 
 <pre>local/geographiq$ rake import</pre>
 
