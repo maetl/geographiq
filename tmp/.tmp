@@ -1,0 +1,4 @@
+Scratch space for data munging.
+
+Heroku filesystem is readonly so don't try to fuck with this folder on there
+or you might be disapointed.
