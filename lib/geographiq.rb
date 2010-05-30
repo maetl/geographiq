@@ -1,7 +1,16 @@
-require 'sinatra'
-require 'rack/conneg'
-require 'active_record'
-require 'yaml'
+begin
+  # Require the preresolved locked set of gems.
+  require File.expand_path('../.bundle/environment', __FILE__)
+rescue LoadError
+  # Fallback on doing the resolve at runtime.
+  require 'rubygems'
+  require 'bundler'
+  require 'sinatra'
+  require 'rack/conneg'
+  require 'active_record'
+  require 'yaml'
+  Bundler.setup
+end
 
 db_config = YAML::load(File.open(File.dirname(__FILE__) + '/../config/database.yml'))
 ActiveRecord::Base.establish_connection(db_config['production'])
@@ -51,7 +60,7 @@ module Geographiq
     
     get '/languages/romanize/:id' do
       if ['ru', 'ja', 'uk'].include? params[:id]
-        respond_with Index::Name.languages.basic.asc.where(:exonym => params[:id]), :ascii
+        respond_with Index::Name.languages.basic.asc.where(:exonym => params[:id]), :romanized
       else
         content_type 'text/plain'
         error 404, "Unavailable format"
@@ -80,7 +89,7 @@ module Geographiq
       relation.each do |obj|
         collection.store(obj.endonym, obj.read_attribute(type))
       end
-      collection.to_s
+      collection.to_json
     end
     
   end
@@ -88,7 +97,7 @@ module Geographiq
   module Index
     
     class Name < ActiveRecord::Base
-      set_table_name :geographiq_names_index
+      set_table_name :geographiq_names
       scope :languages, where(:category => 'languages')
       scope :basic, where(:is_basic => true)
       scope :asc, order('endonym ASC')

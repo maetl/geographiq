@@ -1,31 +1,39 @@
-require 'active_record'
-require 'active_record/schema'
-require 'hpricot'
-require 'andand'
-require 'open-uri'
+begin
+  require File.expand_path('.bundle/environment', __FILE__)
+rescue LoadError
+  # Fallback on doing the resolve at runtime.
+  require 'rubygems'
+  require 'bundler'
+  require 'active_record'
+  require 'active_record/schema'
+  require 'hpricot'
+  require 'andand'
+  require 'open-uri'
+  Bundler.setup
+end
 
 db_config = YAML::load(File.open(File.dirname(__FILE__) + '/config/database.yml'))
 ActiveRecord::Base.establish_connection(db_config['production'])
 
 #
-# These are the locales to install by default.
+# These are the languages to install by default.
 #
 # We're not dumping them in all at once, because it seems
 # some curation and inspection is necessary to prune the 
 # lists into better shape
 #
-$Locales = ['en', 'es', 'fr', 'de', 'da', 'sv', 'pl', 'ru', 'it', 'cs', 'ja', 'pt', 'ro', 'fi', 'nl', 'tr', 'hu', 'uk']
+$Locales = ['en', 'es', 'fr', 'de', 'da', 'sv', 'pl', 'ru', 'it', 'cs', 'ja', 'pt', 'ro', 'fi', 'nl', 'tr','hu', 'uk']
 
 desc "installs a clean version of the schema"
 task :install do
   begin
-    ActiveRecord::Schema.drop_table('geographiq_names_index')
+    ActiveRecord::Schema.drop_table('geographiq_names')
   rescue
     nil
   end
 
   ActiveRecord::Schema.define do
-    create_table "geographiq_names_index", :force => true do |t|
+    create_table "geographiq_names", :force => true do |t|
       t.column "category", :string, :limit => 80, :null => false
       t.column "is_basic", :boolean, :null => false
       t.column "endonym", :string, :limit => 64, :null => false
