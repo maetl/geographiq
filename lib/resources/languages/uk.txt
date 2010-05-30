@@ -1,0 +1,515 @@
+aa:афарська:afarsʹka
+ab:абхазька:abhazʹka
+ace:ачехська:ačehsʹka
+ach:ачолі:ačolí
+ada:адангме:adangme
+ady:адигейська:adigejsʹka
+ae:авестійська:avestíjsʹka
+af:африкаанс:afrikaans
+afa:афро-азійська мова:afro-azíjsʹka mova
+afh:африхілі:afrihílí
+ain:айнська:ajnsʹka
+ak:акан:akan
+akk:аккадська:akkadsʹka
+ale:алеутська:aleutsʹka
+alg:алгонкінські мови:algonkínsʹkí movi
+alt:південноалтайська:pívdennoaltajsʹka
+am:амхарська:amharsʹka
+an:арагонська:aragonsʹka
+ang:давньоанглійська:davnʹoanglíjsʹka
+anp:ангіка:angíka
+apa:апачі мови:apačí movi
+ar:арабська:arabsʹka
+arc:арамейська:aramejsʹka
+arn:арауканська:araukansʹka
+arp:арапахо:arapaho
+art:штучна мова:štučna mova
+arw:аравакська:aravaksʹka
+as:ассамська:assamsʹka
+asa:asa
+ast:астурська:astursʹka
+ath:атапаскські мови:atapasksʹkí movi
+aus:австралійські мови:avstralíjsʹkí movi
+av:аварська:avarsʹka
+awa:авадхі:avadhí
+ay:аймара:ajmara
+az:азербайджанська:azerbajdžansʹka
+ba:башкирська:baškirsʹka
+bad:банда:banda
+bai:бамілеке мови:bamíleke movi
+bal:балучі:balučí
+ban:балійська:balíjsʹka
+bas:баса:basa
+bat:балтійська мова:baltíjsʹka mova
+be:білоруська:bílorusʹka
+bej:беджа:bedža
+bem:бемба:bemba
+ber:берберська:berbersʹka
+bez:bez
+bg:болгарська:bolgarsʹka
+bh:біхарі:bíharí
+bho:бходжпурі:bhodžpurí
+bi:біслама:bíslama
+bik:бікольська:bíkolʹsʹka
+bin:біні:bíní
+bla:сіксіка:síksíka
+bm:бамбара:bambara
+bn:бенгальська:bengalʹsʹka
+bnt:банту:bantu
+bo:тибетська:tibetsʹka
+br:бретонська:bretonsʹka
+bra:брадж:bradž
+bs:боснійська:bosníjsʹka
+btk:батак:batak
+bua:бурятська:burâtsʹka
+bug:бугійська:bugíjsʹka
+byn:блін:blín
+ca:каталонська:katalonsʹka
+cad:каддо:kaddo
+cai:центральноамериканьских індіанців мова:centralʹnoamerikanʹskih índíancív mova
+car:карібська:karíbsʹka
+cau:кавказька мова:kavkazʹka mova
+cch:атсам:atsam
+ce:чеченська:čečensʹka
+ceb:себуанська:sebuansʹka
+cel:кельтська мова:kelʹtsʹka mova
+ch:чаморро:čamorro
+chb:чібча:číbča
+chg:чагатайська:čagatajsʹka
+chk:чуукська:čuuksʹka
+chm:марійська:maríjsʹka
+chn:чинук жаргон:činuk žargon
+cho:чокто:čokto
+chp:чіпев’ян:čípev’ân
+chr:черокі:čerokí
+chy:чейєнн:čejênn
+cmc:хамітські мови:hamítsʹkí movi
+co:корсиканська:korsikansʹka
+cop:коптська:koptsʹka
+cpe:англо-креольські та піджінізовані англійські мови:anglo-kreolʹsʹkí ta pídžínízovaní anglíjsʹkí movi
+cpf:франко-креольські та піджінізовані франкофонні мови:franko-kreolʹsʹkí ta pídžínízovaní frankofonní movi
+cpp:португальсько-креольські та піджінізовані португальські мови:portugalʹsʹko-kreolʹsʹkí ta pídžínízovaní portugalʹsʹkí movi
+cr:крі:krí
+crh:кримськотатарська:krimsʹkotatarsʹka
+crp:креольські та піджінізовані мови:kreolʹsʹkí ta pídžínízovaní movi
+cs:чеська:česʹka
+csb:кашубська:kašubsʹka
+cu:церковнослов’янська:cerkovnoslov’ânsʹka
+cus:кушітська мова:kušítsʹka mova
+cv:чуваська:čuvasʹka
+cy:валлійська:vallíjsʹka
+da:данська:dansʹka
+dak:дакота:dakota
+dar:даргінська:dargínsʹka
+day:даяк:daâk
+de:німецька:nímecʹka
+de_AT:німецька австрійська:nímecʹka avstríjsʹka
+de_CH:верхньонімецька швейцарська:verhnʹonímecʹka švejcarsʹka
+del:делаварська:delavarsʹka
+den:слейв:slejv
+dgr:догрибська:dogribsʹka
+din:дінка:dínka
+doi:догрі:dogrí
+dra:дравідійська мова:dravídíjsʹka mova
+dsb:нижньолужицька:nižnʹolužicʹka
+dua:дуала:duala
+dum:середньонідерландська:serednʹoníderlandsʹka
+dv:дівехі:dívehí
+dyu:діула:díula
+dz:дзонг-ке:dzong-ke
+ebu:ebu
+ee:еве:eve
+efi:ефік:efík
+egy:давньоєгипетська:davnʹoêgipetsʹka
+eka:екаджук:ekadžuk
+el:грецька:grecʹka
+elx:еламська:elamsʹka
+en:англійська:anglíjsʹka
+en_AU:англійська австралійська:anglíjsʹka avstralíjsʹka
+en_CA:англійська канадська:anglíjsʹka kanadsʹka
+en_GB:англійська британська:anglíjsʹka britansʹka
+en_US:англійська США:anglíjsʹka SŠA
+enm:середньоанглійська:serednʹoanglíjsʹka
+eo:есперанто:esperanto
+es:іспанська:íspansʹka
+es_419:латиноамериканська іспанська:latinoamerikansʹka íspansʹka
+es_ES:іберійська іспанська:íberíjsʹka íspansʹka
+et:естонська:estonsʹka
+eu:басків:baskív
+ewo:евондо:evondo
+fa:перська:persʹka
+fan:фанг:fang
+fat:фанті:fantí
+ff:фула:fula
+fi:фінська:fínsʹka
+fil:філіппінська:fílíppínsʹka
+fiu:фінно-угорські мови:fínno-ugorsʹkí movi
+fj:фіджі:fídží
+fo:фарерська:farersʹka
+fon:фон:fon
+fr:французька:francuzʹka
+fr_CA:французька канадська:francuzʹka kanadsʹka
+fr_CH:французька швейцарська:francuzʹka švejcarsʹka
+frm:середньофранцузька:serednʹofrancuzʹka
+fro:давньофранцузька:davnʹofrancuzʹka
+frr:фризька північна:frizʹka pívníčna
+frs:фризька східна:frizʹka shídna
+fur:фріульська:fríulʹsʹka
+fy:фризька:frizʹka
+ga:ірландська:írlandsʹka
+gaa:га:ga
+gay:гайо:gajo
+gba:гбайя:gbajâ
+gd:гаельська:gaelʹsʹka
+gem:германська мова:germansʹka mova
+gez:гєез:gêez
+gil:гільбертська:gílʹbertsʹka
+gl:галісійська:galísíjsʹka
+gmh:середньоверхньонімецька:serednʹoverhnʹonímecʹka
+gn:гуарані:guaraní
+goh:давньоверхньонімецька:davnʹoverhnʹonímecʹka
+gon:гонді:gondí
+gor:горонтало:gorontalo
+got:готська:gotsʹka
+grb:гребо:grebo
+grc:давньогрецька:davnʹogrecʹka
+gsw:німецька швейцарська:nímecʹka švejcarsʹka
+gu:гуджараті:gudžaratí
+gv:менкська:menksʹka
+gwi:кучін:kučín
+ha:хауса:hausa
+hai:хайда:hajda
+haw:гавайська:gavajsʹka
+he:іврит:ívrit
+hi:гінді:gíndí
+hil:хілігайнон:hílígajnon
+him:хімачалі:hímačalí
+hit:хітіті:hítítí
+hmn:хмонг:hmong
+ho:хірі-моту:hírí-motu
+hr:хорватська:horvatsʹka
+hsb:верхньолужицька:verhnʹolužicʹka
+ht:гаїтянська:gaí̈tânsʹka
+hu:угорська:ugorsʹka
+hup:хупа:hupa
+hy:вірменська:vírmensʹka
+hz:гереро:gerero
+ia:інтерлінгва:ínterlíngva
+iba:ібанська:íbansʹka
+id:індонезійська:índonezíjsʹka
+ie:інтерлінгве:ínterlíngve
+ig:ігбо:ígbo
+ii:сичуань:sičuanʹ
+ijo:іджо:ídžo
+ik:інупіак:ínupíak
+ilo:ілоканська:ílokansʹka
+inc:індійські мови:índíjsʹkí movi
+ine:індоєвропейські мови:índoêvropejsʹkí movi
+inh:інгуська:íngusʹka
+io:ідо:ído
+ira:іранська:íransʹka
+iro:ірокезькі мови:írokezʹkí movi
+is:ісландська:íslandsʹka
+it:італійська:ítalíjsʹka
+iu:інуктітут:ínuktítut
+ja:японська:âponsʹka
+jbo:ложбан:ložban
+jpr:іудео-перська:íudeo-persʹka
+jrb:іудео-арабська:íudeo-arabsʹka
+jv:яванська:âvansʹka
+ka:грузинська:gruzinsʹka
+kaa:каракалпацька:karakalpacʹka
+kab:кабильська:kabilʹsʹka
+kac:качін:kačín
+kaj:йю:jû
+kam:камба:kamba
+kar:каренська:karensʹka
+kaw:каві:kaví
+kbd:кабардинська:kabardinsʹka
+kcg:тіап:tíap
+kea:kea
+kfo:коро:koro
+kg:конґолезька:kong̀olezʹka
+kha:кхасі:khasí
+khi:койсанські мови:kojsansʹkí movi
+kho:хотаносакська:hotanosaksʹka
+ki:кікуйю:kíkujû
+kj:кунама:kunama
+kk:казахська:kazahsʹka
+kl:калааллісут:kalaallísut
+km:кхмерська:khmersʹka
+kmb:кімбунду:kímbundu
+kn:каннада:kannada
+ko:корейська:korejsʹka
+kok:конкані:konkaní
+kos:косрае:kosrae
+kpe:кпеллє:kpellê
+kr:канурі:kanurí
+krc:карачаєво-балкарська:karačaêvo-balkarsʹka
+krl:карельська:karelʹsʹka
+kro:кру:kru
+kru:курукх:kurukh
+ks:кашмірська:kašmírsʹka
+ku:курдська:kurdsʹka
+kum:кумицька:kumicʹka
+kut:кутенаї:kutenaí̈
+kv:комі:komí
+kw:корнійська:korníjsʹka
+ky:киргизька:kirgizʹka
+la:латинська:latinsʹka
+lad:ладіно:ladíno
+lah:ланда:landa
+lam:ламба:lamba
+lb:люксембурзька:lûksemburzʹka
+lez:лезгінська:lezgínsʹka
+lg:ганда:ganda
+li:лімбургійська:límburgíjsʹka
+ln:лінгала:língala
+lo:лаоська:laosʹka
+lol:монго:mongo
+loz:лозі:lozí
+lt:литовська:litovsʹka
+lu:луба-катанга:luba-katanga
+lua:луба-лулуа:luba-lulua
+lui:луїсеньо:luí̈senʹo
+lun:лунда:lunda
+luo:луо:luo
+lus:лушей:lušej
+luy:luy
+lv:латвійська:latvíjsʹka
+mad:мадурська:madursʹka
+mag:магадхі:magadhí
+mai:майтхілі:majthílí
+mak:макасарська:makasarsʹka
+man:мандінго:mandíngo
+map:австронезійська мова:avstronezíjsʹka mova
+mas:масаї:masaí̈
+mdf:мокша:mokša
+mdr:мандарська:mandarsʹka
+men:менде:mende
+mg:малагасійська:malagasíjsʹka
+mga:середньоірландська:serednʹoírlandsʹka
+mh:маршалльська:maršallʹsʹka
+mi:маорі:maorí
+mic:мікмак:míkmak
+min:мінангкабау:mínangkabau
+mis:інші мови:ínší movi
+mk:македонська:makedonsʹka
+mkh:мон-кхмерські мови:mon-khmersʹkí movi
+ml:малайялам:malajâlam
+mn:монгольська:mongolʹsʹka
+mnc:манчжурська:mančžursʹka
+mni:маніпурі:manípurí
+mno:манобо мови:manobo movi
+mo:молдавська:moldavsʹka
+moh:магавк:magavk
+mos:моссі:mossí
+mr:маратхі:marathí
+ms:малайська:malajsʹka
+mt:мальтійська:malʹtíjsʹka
+mul:декілька мов:dekílʹka mov
+mun:мунда мови:munda movi
+mus:крік:krík
+mwl:мірандська:mírandsʹka
+mwr:марварі:marvarí
+my:бірманська:bírmansʹka
+myn:майя мови:majâ movi
+myv:ерзя:erzâ
+na:науру:nauru
+nah:нахуатль:nahuatlʹ
+nai:північноамериканських індіанців мови:pívníčnoamerikansʹkih índíancív movi
+nap:неаполітанська:neapolítansʹka
+nb:норвезька букмол:norvezʹka bukmol
+nd:ндебелє північна:ndebelê pívníčna
+nds:нижньонімецька:nižnʹonímecʹka
+ne:непальська:nepalʹsʹka
+new:неварі:nevarí
+ng:ндонга:ndonga
+nia:ніаська:níasʹka
+nic:ніґеро-кордофанські мови:níg̀ero-kordofansʹkí movi
+niu:ніуе:níue
+nl:голландська:gollandsʹka
+nl_BE:фламандська:flamandsʹka
+nn:норвезька нюнорськ:norvezʹka nûnorsʹk
+no:норвезька:norvezʹka
+nog:ногайська:nogajsʹka
+non:давньонорвезька:davnʹonorvezʹka
+nqo:нко:nko
+nr:ндебелє південна:ndebelê pívdenna
+nso:сото північна:soto pívníčna
+nub:нубійські мови:nubíjsʹkí movi
+nv:навахо:navaho
+nwc:неварі класична:nevarí klasična
+ny:ньянджа:nʹândža
+nym:ньямвезі:nʹâmvezí
+nyn:ньянколе:nʹânkole
+nyo:ньоро:nʹoro
+nzi:нзіма:nzíma
+oc:окитан:okitan
+oj:оджібва:odžíbva
+om:оромо:oromo
+or:орія:oríâ
+os:осетинська:osetinsʹka
+osa:осейдж:osejdž
+ota:османська:osmansʹka
+oto:отомі мови:otomí movi
+pa:панджабі:pandžabí
+paa:папуаські мови:papuasʹkí movi
+pag:пангасінанська:pangasínansʹka
+pal:пехлеві:pehleví
+pam:пампанга:pampanga
+pap:пап’яменто:pap’âmento
+pau:палауанська:palauansʹka
+peo:давньоперська:davnʹopersʹka
+phi:філіппінські мови:fílíppínsʹkí movi
+phn:фінікійсько-пунічна:fíníkíjsʹko-puníčna
+pi:палі:palí
+pl:польська:polʹsʹka
+pon:понапе:ponape
+pra:пракріті мови:prakrítí movi
+pro:давньопровансальська:davnʹoprovansalʹsʹka
+ps:пушту:puštu
+pt:португальська:portugalʹsʹka
+pt_BR:португальська бразильська:portugalʹsʹka brazilʹsʹka
+pt_PT:португальська іберійська:portugalʹsʹka íberíjsʹka
+qu:кечуа:kečua
+raj:раджастхані:radžasthaní
+rap:рапануї:rapanuí̈
+rar:раротонга:rarotonga
+rm:ретороманська:retoromansʹka
+rn:рунді:rundí
+ro:румунська:rumunsʹka
+roa:романські мови:romansʹkí movi
+rof:rof
+rom:циганська:cigansʹka
+root:корінь:korínʹ
+ru:російська:rosíjsʹka
+rup:арумунська:arumunsʹka
+rw:кіньяруанда:kínʹâruanda
+rwk:rwk
+sa:санскрит:sanskrit
+sad:сандаве:sandave
+sah:якутська:âkutsʹka
+sai:південноамериканських індіанців мови:pívdennoamerikansʹkih índíancív movi
+sal:салішські мови:salíšsʹkí movi
+sam:самаритянська арамейська:samaritânsʹka aramejsʹka
+sas:сасакська:sasaksʹka
+sat:сантальська:santalʹsʹka
+sc:сардинська:sardinsʹka
+scn:сицилійська:sicilíjsʹka
+sco:шотландська:šotlandsʹka
+sd:сіндхі:síndhí
+se:саамська північна:saamsʹka pívníčna
+sel:селькупська:selʹkupsʹka
+sem:семітські мови:semítsʹkí movi
+sg:санго:sango
+sga:давньоірландська:davnʹoírlandsʹka
+sgn:знакові мови:znakoví movi
+sh:сербсько-хорватська:serbsʹko-horvatsʹka
+shn:шанська:šansʹka
+si:сингальська:singalʹsʹka
+sid:сідамо:sídamo
+sio:сіу мови:síu movi
+sit:китайсько-тибетські мови:kitajsʹko-tibetsʹkí movi
+sk:словацька:slovacʹka
+sl:словенська:slovensʹka
+sla:слов’янські мови:slov’ânsʹkí movi
+sm:самоанська:samoansʹka
+sma:саамська південна:saamsʹka pívdenna
+smi:саамські мови:saamsʹkí movi
+smj:саамська луле:saamsʹka lule
+smn:саамська інарі:saamsʹka ínarí
+sms:саамська скольт:saamsʹka skolʹt
+sn:шона:šona
+snk:сонінке:sonínke
+so:сомалі:somalí
+sog:согдійська:sogdíjsʹka
+son:сонгай:songaj
+sq:албанська:albansʹka
+sr:сербська:serbsʹka
+srn:сранан тонго:sranan tongo
+srr:серер:serer
+ss:сісваті:sísvatí
+ssa:ніло-сахарські мови:nílo-saharsʹkí movi
+st:сото південна:soto pívdenna
+su:сунданська:sundansʹka
+suk:сукума:sukuma
+sus:сусу:susu
+sux:шумерська:šumersʹka
+sv:шведська:švedsʹka
+sw:суахілі:suahílí
+swb:коморська:komorsʹka
+syc:сирійська класична:siríjsʹka klasična
+syr:сирійська:siríjsʹka
+ta:тамільська:tamílʹsʹka
+tai:тайські мови:tajsʹkí movi
+te:телугу:telugu
+tem:темне:temne
+ter:терено:tereno
+tet:тетум:tetum
+tg:таджицька:tadžicʹka
+th:тайська:tajsʹka
+ti:тигріні:tigríní
+tig:тигре:tigre
+tiv:тів:tív
+tk:туркменська:turkmensʹka
+tkl:токелау:tokelau
+tl:тагальська:tagalʹsʹka
+tlh:клінгон:klíngon
+tli:тлінгіт:tlíngít
+tmh:тамашек:tamašek
+tn:тсвана:tsvana
+to:Тонга:Tonga
+tog:ньяса тонга:nʹâsa tonga
+tpi:ток-пісін:tok-písín
+tr:турецька:turecʹka
+ts:тсонга:tsonga
+tsi:цимшиан:cimšian
+tt:татарська:tatarsʹka
+tum:тумбука:tumbuka
+tup:тупі:tupí
+tut:алтайська мова:altajsʹka mova
+tvl:тувалу:tuvalu
+tw:тві:tví
+ty:таїтянська:taí̈tânsʹka
+tyv:тувинська:tuvinsʹka
+udm:удмуртська:udmurtsʹka
+ug:уйгурська:ujgursʹka
+uga:угаритська:ugaritsʹka
+uk:українська:ukraí̈nsʹka
+umb:умбунду:umbundu
+und:невизначена мова:neviznačena mova
+ur:урду:urdu
+uz:узбецька:uzbecʹka
+vai:ваї:vaí̈
+ve:венда:venda
+vi:вʼєтнамська:vʼêtnamsʹka
+vo:волап’юк:volap’ûk
+vot:водська:vodsʹka
+wa:валлонська:vallonsʹka
+wak:вакашські мови:vakašsʹkí movi
+wal:валамо:valamo
+war:варай:varaj
+was:вашо:vašo
+wen:лужицькі мови:lužicʹkí movi
+wo:волоф:volof
+xal:калмицька:kalmicʹka
+xh:кхоса:khosa
+yao:яо:âo
+yap:яп:âp
+yi:ідиш:ídiš
+yo:йоруба:joruba
+ypk:юпік мови:ûpík movi
+yue:кантонська:kantonsʹka
+za:чжуан:čžuan
+zap:сапотекська:sapoteksʹka
+zbl:блісса мова:blíssa mova
+zen:зенага:zenaga
+zh:китайська:kitajsʹka
+zh_Hans:китайська спрощена:kitajsʹka sproŝena
+zh_Hant:китайська традиційна:kitajsʹka tradicíjna
+znd:занде:zande
+zu:зулуська:zulusʹka
+zun:зуньї:zunʹí̈
+zxx:немає мовного вмісту:nemaê movnogo vmístu
+zza:зазакі:zazakí

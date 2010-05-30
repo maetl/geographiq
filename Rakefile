@@ -7,7 +7,14 @@ require 'open-uri'
 db_config = YAML::load(File.open(File.dirname(__FILE__) + '/config/database.yml'))
 ActiveRecord::Base.establish_connection(db_config['production'])
 
-$Locales = ['en', 'es', 'fr', 'de', 'da', 'sv', 'pl', 'ru', 'it', 'cs', 'ja', 'pt', 'ro', 'fi', 'nl', 'tr']
+#
+# These are the locales to install by default.
+#
+# We're not dumping them in all at once, because it seems
+# some curation and inspection is necessary to prune the 
+# lists into better shape
+#
+$Locales = ['en', 'es', 'fr', 'de', 'da', 'sv', 'pl', 'ru', 'it', 'cs', 'ja', 'pt', 'ro', 'fi', 'nl', 'tr', 'hu', 'uk']
 
 desc "installs a clean version of the schema"
 task :install do
@@ -23,8 +30,8 @@ task :install do
       t.column "is_basic", :boolean, :null => false
       t.column "endonym", :string, :limit => 64, :null => false
       t.column "exonym", :string, :limit => 64, :null => false
-      t.column "term", :string, :limit => 140, :null => false
-      t.column "romanized_term", :string, :limit => 140
+      t.column "native", :string, :limit => 140, :null => false
+      t.column "romanized", :string, :limit => 140, :null => false
     end
   end  
 end
@@ -36,16 +43,14 @@ task :import => :install do
     languages = File.open("lib/resources/languages/#{id}.txt")
     languages.readlines.each do |line|
       parts = line.split(':')
-      language = Geographiq::Index::Name.new
-      language.category = "languages"
-      language.exonym = id
-      language.endonym = parts[0].strip
-      language.term = parts[1].strip
-      if parts[2]
-        language.romanized_term = parts[2].strip
-      end
-      language.is_basic = language.endonym.length == 2
-      language.save
+      item = Geographiq::Index::Name.new
+      item.category = "languages"
+      item.exonym = id
+      item.endonym = parts[0].strip
+      item.native = parts[1].strip
+      item.romanized = parts[2] ? parts[2].strip : item.native
+      item.is_basic = item.endonym.length == 2
+      item.save
     end
   end
 end
