@@ -5,7 +5,7 @@ require 'andand'
 require 'open-uri'
 
 db_config = YAML::load(File.open(File.dirname(__FILE__) + '/config/database.yml'))
-ActiveRecord::Base.establish_connection(db_config)
+ActiveRecord::Base.establish_connection(db_config['production'])
 
 $Locales = ['en', 'es', 'fr', 'de', 'da', 'sv', 'pl', 'ru', 'it', 'cs', 'ja', 'pt', 'ro', 'fi', 'nl', 'tr']
 
