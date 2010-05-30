@@ -1,12 +1,7 @@
 Geographiq
 ==========
 
-Un indice global géographique
-
-About
------
-
-Source code for the <http://geographiq.info> web service.
+Un indice global géographique. Source code for the <http://geographiq.info> web service.
 
 Dependencies
 ------------
@@ -45,7 +40,7 @@ Then start the app in preview mode using **Sinatra**:
 
 Or bounce it up on **Rack**, perhaps using **Shotgun** (http://github.com/rtomayko/shotgun):
 
-<pre>local/geographiq$== shotgun config.ru
+<pre>local/geographiq$ shotgun config.ru
 == Shotgun starting Rack::Handler::WEBrick at http://localhost:9393
 [2010-05-30 17:36:15] INFO  WEBrick 1.3.1
 [2010-05-30 17:36:15] INFO  ruby 1.8.7 (2009-06-12) [i686-darwin9]
