@@ -1,16 +1,8 @@
-begin
-  require File.expand_path('.bundle/environment', __FILE__)
-rescue LoadError
-  # Fallback on doing the resolve at runtime.
-  require 'rubygems'
-  require 'bundler'
-  require 'active_record'
-  require 'active_record/schema'
-  require 'hpricot'
-  require 'andand'
-  require 'open-uri'
-  Bundler.setup
-end
+require 'active_record'
+require 'active_record/schema'
+require 'hpricot'
+require 'andand'
+require 'open-uri'
 
 db_config = YAML::load(File.open(File.dirname(__FILE__) + '/config/database.yml'))
 ActiveRecord::Base.establish_connection(db_config['production'])

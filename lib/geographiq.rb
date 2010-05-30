@@ -1,16 +1,6 @@
-begin
-  # Require the preresolved locked set of gems.
-  require File.expand_path('../.bundle/environment', __FILE__)
-rescue LoadError
-  # Fallback on doing the resolve at runtime.
-  require 'rubygems'
-  require 'bundler'
-  require 'sinatra'
-  require 'rack/conneg'
-  require 'active_record'
-  require 'yaml'
-  Bundler.setup
-end
+require 'sinatra'
+require 'rack/conneg'
+require 'active_record'
 
 db_config = YAML::load(File.open(File.dirname(__FILE__) + '/../config/database.yml'))
 ActiveRecord::Base.establish_connection(db_config['production'])
