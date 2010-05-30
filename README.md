@@ -6,12 +6,10 @@ Un indice global géographique
 About
 -----
 
-Source code for the http://geographiq.info/ web service for localizing software in multiple languages.
+Source code for the <http://geographiq.info> web service.
 
 Dependencies
 ------------
-
-This fellow rolls on Rack, Sinatra, and ActiveRecord.
 
 Example configuration for Gem Bundler, which is confirmed to run on the Heroku Bamboo stack:
 
@@ -25,7 +23,7 @@ gem 'hpricot'</pre>
 
 Note: **Hpricot** is only used for importing locale data in the Rakefile and is not needed for the app to run.
 
-**ActiveRecord >= 3.0.0beta** is required as the data model uses the new named scope features.
+**ActiveRecord >= 3.0.0beta** is required as the app uses the new named scope features.
 
 Installation
 ------------
@@ -45,7 +43,7 @@ Then start the app in preview mode using **Sinatra**:
 [2010-05-30 17:31:10] INFO  ruby 1.8.7 (2009-06-12) [i686-darwin9]
 [2010-05-30 17:31:10] INFO  WEBrick::HTTPServer#start: pid=76385 port=4567</pre>
 
-Or bounce it up on Rack, perhaps using **Shotgun** (http://github.com/rtomayko/shotgun):
+Or bounce it up on **Rack**, perhaps using **Shotgun** (http://github.com/rtomayko/shotgun):
 
 <pre>local/geographiq$== shotgun config.ru
 == Shotgun starting Rack::Handler::WEBrick at http://localhost:9393
@@ -56,9 +54,9 @@ Or bounce it up on Rack, perhaps using **Shotgun** (http://github.com/rtomayko/s
 Live
 ----
 
-http://geographiq.info/
+<http://geographiq.info/>
 
-Hosted on http://heroku.com
+Hosted on <http://heroku.com>
 
 Credits
 -------
